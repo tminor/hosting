@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "jr35fzgr3rh5xfjaaage3nzh3e"
+      "buildId": "fdbacgkxtffodfei6fm74jtifa"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "http-api-3.5.2.jar",
           "url": "http-api-3.5.2.jar",
-          "size": 160389,
-          "sha512": "7fc7e3cd17ad2b40ae6a3d5a0811b8eddea1424885458844c9e93ca8ee97cec46ff38ddae68bf9e4f49c7764b63f7b6982817bb56559227f5f2473b6ab9f3924",
-          "sha256": "d4c94b2070e077e6c6d6b1e97d43a7817ed4ec40cc03b2920ecd7d922dd47bfc",
-          "sha1": "ae0cfabf8a45ddee85c033f83c0c21ffe5d44dc0",
-          "md5": "0dcf02bf127f531ec8b7bdc2b2260046"
+          "size": 160388,
+          "sha512": "3c28873f0d8ceba4c99869eef4d6ca82977915e86f0cbabe1b93adc7c40e2c8734972d42d1ad293cf33c364fd6052c050120bc415b56f7c651689510a3df3789",
+          "sha256": "feab2c100461a6b7b56e4e37df61083c30dd22331b2c30dcd05baaa6606e99b7",
+          "sha1": "06834537a1c2994bea4d649e159ff09e40b2ac2d",
+          "md5": "202b66430e74861b429f75533e76350d"
         }
       ]
     },
@@ -100,11 +100,11 @@
         {
           "name": "http-api-3.5.2.jar",
           "url": "http-api-3.5.2.jar",
-          "size": 160389,
-          "sha512": "7fc7e3cd17ad2b40ae6a3d5a0811b8eddea1424885458844c9e93ca8ee97cec46ff38ddae68bf9e4f49c7764b63f7b6982817bb56559227f5f2473b6ab9f3924",
-          "sha256": "d4c94b2070e077e6c6d6b1e97d43a7817ed4ec40cc03b2920ecd7d922dd47bfc",
-          "sha1": "ae0cfabf8a45ddee85c033f83c0c21ffe5d44dc0",
-          "md5": "0dcf02bf127f531ec8b7bdc2b2260046"
+          "size": 160388,
+          "sha512": "3c28873f0d8ceba4c99869eef4d6ca82977915e86f0cbabe1b93adc7c40e2c8734972d42d1ad293cf33c364fd6052c050120bc415b56f7c651689510a3df3789",
+          "sha256": "feab2c100461a6b7b56e4e37df61083c30dd22331b2c30dcd05baaa6606e99b7",
+          "sha1": "06834537a1c2994bea4d649e159ff09e40b2ac2d",
+          "md5": "202b66430e74861b429f75533e76350d"
         }
       ]
     }
