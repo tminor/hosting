@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "c7ybiprcerguphp6mgmj3v3pjy"
+      "buildId": "32hel2voxvd3hitxlnr4uchjb4"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "http-api-3.5.4.jar",
           "url": "http-api-3.5.4.jar",
           "size": 160389,
-          "sha512": "0e1507179c079ee8c5009258d4ffa9c6c2c50ecac0b127cc96fa866e843055339e1d32d9ba603d108aa54c449d9ae4a56089fa56af272e14afd1a1a46767817b",
-          "sha256": "dd8f55c0d189918930020c2769a3e65c66c6910474f3085d031bae503bca2ffb",
-          "sha1": "476346fcacdd32fa5a0f9e9ba81ff561b0c94f13",
-          "md5": "af2125e3256432431e0b50eb667d1c2f"
+          "sha512": "1ef5ca26146692752360345d946716b27bb96717169e6b2904a863e6c9d22721f099997e9e86b1f1891659eef6c7467c291cfb8f0ae1c2e2bec3076384993d29",
+          "sha256": "98211c82e5d19eace35c9352150a6f1b3cb90a52a2ad7827029b7f7efd1781b1",
+          "sha1": "c9677f84a428ae548e5787e3dbd3e16d31d8b498",
+          "md5": "7a37129fe0af5184b4912f9da4858901"
         }
       ]
     },
@@ -101,10 +101,10 @@
           "name": "http-api-3.5.4.jar",
           "url": "http-api-3.5.4.jar",
           "size": 160389,
-          "sha512": "0e1507179c079ee8c5009258d4ffa9c6c2c50ecac0b127cc96fa866e843055339e1d32d9ba603d108aa54c449d9ae4a56089fa56af272e14afd1a1a46767817b",
-          "sha256": "dd8f55c0d189918930020c2769a3e65c66c6910474f3085d031bae503bca2ffb",
-          "sha1": "476346fcacdd32fa5a0f9e9ba81ff561b0c94f13",
-          "md5": "af2125e3256432431e0b50eb667d1c2f"
+          "sha512": "1ef5ca26146692752360345d946716b27bb96717169e6b2904a863e6c9d22721f099997e9e86b1f1891659eef6c7467c291cfb8f0ae1c2e2bec3076384993d29",
+          "sha256": "98211c82e5d19eace35c9352150a6f1b3cb90a52a2ad7827029b7f7efd1781b1",
+          "sha1": "c9677f84a428ae548e5787e3dbd3e16d31d8b498",
+          "md5": "7a37129fe0af5184b4912f9da4858901"
         }
       ]
     }
