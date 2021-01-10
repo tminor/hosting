@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.7",
-      "buildId": "duyassqn5rcr5n2txz74bzadce"
+      "version": "6.7.1",
+      "buildId": "2wpr6gao4zgmjlx2a3cbc3ydny"
     }
   },
   "variants": [
@@ -44,11 +44,11 @@
         {
           "name": "runescape-api-3.5.4.jar",
           "url": "runescape-api-3.5.4.jar",
-          "size": 104927,
-          "sha512": "a7a2a957c7db187b026bf236b86bebb2b0d4f4e78e856ea8797b8144d60d3b44c1f440d7625bedb17d1364eb0d960592719665bfb2a0b59d695505b376fa116f",
-          "sha256": "ad653aa878f020cfe76e3b24bb8c73f4c5845248acbb49490725e16aacc7cd49",
-          "sha1": "72554cfbc1916f509396bb0da5940bff9fa1bed2",
-          "md5": "09910b06353a84fb802dd1cea7b6f83b"
+          "size": 106519,
+          "sha512": "80a66f9eb088a88882a53433cbf8314e6b786b75615e3c48d38dc49b3e08aa30716bb9281641ec4543e7ba9b2e355713fa8492ae8b241386a08c0d4ad10c7579",
+          "sha256": "28971575d6c29ef59babc109534eb1010d1463d4ef0222e9c895a1bd5adbe58e",
+          "sha1": "c1445e4501f91401ae24f65934434286aa666f56",
+          "md5": "9cd0ac90cbfd8086fea9f10af7ad84bd"
         }
       ]
     },
@@ -81,11 +81,11 @@
         {
           "name": "runescape-api-3.5.4.jar",
           "url": "runescape-api-3.5.4.jar",
-          "size": 104927,
-          "sha512": "a7a2a957c7db187b026bf236b86bebb2b0d4f4e78e856ea8797b8144d60d3b44c1f440d7625bedb17d1364eb0d960592719665bfb2a0b59d695505b376fa116f",
-          "sha256": "ad653aa878f020cfe76e3b24bb8c73f4c5845248acbb49490725e16aacc7cd49",
-          "sha1": "72554cfbc1916f509396bb0da5940bff9fa1bed2",
-          "md5": "09910b06353a84fb802dd1cea7b6f83b"
+          "size": 106519,
+          "sha512": "80a66f9eb088a88882a53433cbf8314e6b786b75615e3c48d38dc49b3e08aa30716bb9281641ec4543e7ba9b2e355713fa8492ae8b241386a08c0d4ad10c7579",
+          "sha256": "28971575d6c29ef59babc109534eb1010d1463d4ef0222e9c895a1bd5adbe58e",
+          "sha1": "c1445e4501f91401ae24f65934434286aa666f56",
+          "md5": "9cd0ac90cbfd8086fea9f10af7ad84bd"
         }
       ]
     }
