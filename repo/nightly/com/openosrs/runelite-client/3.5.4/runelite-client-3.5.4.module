@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7",
-      "buildId": "vbsfanr4dzgwloikrelejn6ffu"
+      "buildId": "43qorvwjfzddzjlcrhn5hvr7bm"
     }
   },
   "variants": [
@@ -38,10 +38,10 @@
           "name": "runelite-client-3.5.4.jar",
           "url": "runelite-client-3.5.4.jar",
           "size": 2768149,
-          "sha512": "b8dc37c8980a98460accf9aceb12f7a4f7c742d29b9acddc7c6ef7726361f0d3cb8cd60b1f5e76423fe06e10361d5022b94b0b78c7b970a88e53f4ac05586b04",
-          "sha256": "24bd1498e44dd2d6926fc9d4e074e4aefcefe599747497081bb8034d096f8bbd",
-          "sha1": "316ba619c27a19b481fa789e3da1242fcfcfe1b3",
-          "md5": "6768966bb3d2024ab796e78389edd77c"
+          "sha512": "c2f3ccc32ca91ead909f504b7a0a082c26e8aa8bac0fce19945b7e0532816f6ca64d085bbda17f9975a853c40d14f7867f2e4e3907d771c1453b4a887eade700",
+          "sha256": "b0e2f7eebeb76d4d001efd430d63e92ad78e046c11dbc83d6cc140a85d08c0f7",
+          "sha1": "4c04af0e9625de46fcd982d94feff2dd08d3fb3d",
+          "md5": "6e8a2dce3452efc5f81e7a8d51697ee8"
         }
       ]
     },
@@ -285,10 +285,10 @@
           "name": "runelite-client-3.5.4.jar",
           "url": "runelite-client-3.5.4.jar",
           "size": 2768149,
-          "sha512": "b8dc37c8980a98460accf9aceb12f7a4f7c742d29b9acddc7c6ef7726361f0d3cb8cd60b1f5e76423fe06e10361d5022b94b0b78c7b970a88e53f4ac05586b04",
-          "sha256": "24bd1498e44dd2d6926fc9d4e074e4aefcefe599747497081bb8034d096f8bbd",
-          "sha1": "316ba619c27a19b481fa789e3da1242fcfcfe1b3",
-          "md5": "6768966bb3d2024ab796e78389edd77c"
+          "sha512": "c2f3ccc32ca91ead909f504b7a0a082c26e8aa8bac0fce19945b7e0532816f6ca64d085bbda17f9975a853c40d14f7867f2e4e3907d771c1453b4a887eade700",
+          "sha256": "b0e2f7eebeb76d4d001efd430d63e92ad78e046c11dbc83d6cc140a85d08c0f7",
+          "sha1": "4c04af0e9625de46fcd982d94feff2dd08d3fb3d",
+          "md5": "6e8a2dce3452efc5f81e7a8d51697ee8"
         }
       ]
     },
@@ -305,10 +305,10 @@
           "name": "runelite-client-3.5.4-shaded.jar",
           "url": "runelite-client-3.5.4-shaded.jar",
           "size": 32062242,
-          "sha512": "6955e2a96ac0a3348798678fac4202c6f38c460c94e05bfd764c8d5a1660d629f74291765ab2a0b2fb7aabaf4818cb8d29151c1f40ec63a5f423dd84119eb408",
-          "sha256": "592c8f4940baa80edf8c3542dd426ff48d9b0ad7cbca472a99c7f285c2b48a78",
-          "sha1": "7de6a45cb157aee92522bff0101c8dc440bf68cf",
-          "md5": "8753a56aa3343174fc6d44f39fd8979f"
+          "sha512": "90805afea03de91eb8281dda77456cc67149fe6c13ad9c5c5f4e6eee1ac0875ceb67ddc323b350171b871e97d2f003cc274dd7da8519d297ce2cd908ec5d41d6",
+          "sha256": "6b26750cf5028335a194f420f65f243dc1dcd159eb1ec3fa0cc40b17df77dc52",
+          "sha1": "1bf183b71f219361453cb29abcfff154399c8846",
+          "md5": "41bb66beac93df1ae6e43e544ca96820"
         }
       ]
     }
