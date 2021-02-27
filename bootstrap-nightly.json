@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "5aa7e63991791910f2d7ffdaa163dfae83451e9d",
+    "buildCommit": "3aae0fe569e281068a58bed104315a320f0a1d61",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,7 +47,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.0.0.jar",
             "size": 159127,
             "name": "http-api-4.0.0.jar",
-            "hash": "dbabd38f2d511f673ee265ba0b4c37f011cf98396476075e2e0033738e64f4b2"
+            "hash": "28e04d5bc7a60c7418b8c96d90c61b7bcbe750d42e3e3305f5ae3bb781a8ea46"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.0.0.jar",
@@ -186,12 +186,6 @@
             "size": 41203,
             "name": "slf4j-api-1.7.25.jar",
             "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79"
-        },
-        {
-            "path": "https://repo.maven.apache.org/maven2/com/google/archivepatcher/archive-patch-applier/1.0.4/archive-patch-applier-1.0.4.jar",
-            "size": 19279,
-            "name": "archive-patch-applier-1.0.4.jar",
-            "hash": "cf33c6bd83537833a687b0ccb6d50a960efeee07407c68528be2973b04795edf"
         },
         {
             "path": "http://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429.jar",
@@ -350,12 +344,6 @@
             "hash": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/com/google/archivepatcher/archive-patch-shared/1.0.4/archive-patch-shared-1.0.4.jar",
-            "size": 28806,
-            "name": "archive-patch-shared-1.0.4.jar",
-            "hash": "05db48350244c534104266d016188f8d1647245457d6e3f8eb88bf8aac1d9bf3"
-        },
-        {
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 7298,
             "name": "injection-annotations-1.0.jar",
@@ -363,9 +351,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.0.0.jar",
-            "size": 10042732,
+            "size": 10055295,
             "name": "runelite-client-4.0.0.jar",
-            "hash": "c829fe8bcac6fbf73b4441fa243cda0c9cec3c6c3bc640af96a60d474e04ef7c"
+            "hash": "1ec07354602cd9bdd089a89b90a86f1a7617da9579c2dc4cdd497daf4714a6e4"
         }
     ]
 }

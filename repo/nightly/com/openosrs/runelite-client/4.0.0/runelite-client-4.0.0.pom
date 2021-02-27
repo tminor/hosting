@@ -157,12 +157,6 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.archivepatcher</groupId>
-      <artifactId>archive-patch-applier</artifactId>
-      <version>1.0.4</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>net.runelite.gluegen</groupId>
       <artifactId>gluegen-rt</artifactId>
       <version>2.4.0-rc-20200429</version>
