@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "4f7c1a78caf8b7a39c201e9115bedf729df5509b",
+    "buildCommit": "c61af0d39ddd30324b59703cd4c78077cdd15db3",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,7 +47,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.0.0.jar",
             "size": 159127,
             "name": "http-api-4.0.0.jar",
-            "hash": "8cef5f552f4d17176e8a0c190eea748c4e502e6d32cd6d559d562a684778eb17"
+            "hash": "28d5705a4d18cd267bf4a42375cc26eb3704567b0dd832f6ba605e0057579f70"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.0.0.jar",
@@ -57,9 +57,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.0.0.jar",
-            "size": 1253667,
+            "size": 1253678,
             "name": "runelite-api-4.0.0.jar",
-            "hash": "147986c17bcfb496b55023e2b4215e2ce70ae5b761a270e7d041652f38811673"
+            "hash": "c3ae2478faf591eee13e10b778d7db4bdeafa82e17c6e2abc8e63474441c8ae1"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -351,9 +351,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.0.0.jar",
-            "size": 10055284,
+            "size": 10055334,
             "name": "runelite-client-4.0.0.jar",
-            "hash": "1fc16f6674273b961311fd68e04f30f43845bde03dce85c4cb9a096b58907d22"
+            "hash": "3e5dc53d5112c22e22a5c4ce0d4149101370d2562df7f63b0b8d4e66b71466b3"
         }
     ]
 }
