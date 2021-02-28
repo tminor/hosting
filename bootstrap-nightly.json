@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "3aae0fe569e281068a58bed104315a320f0a1d61",
+    "buildCommit": "4f7c1a78caf8b7a39c201e9115bedf729df5509b",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,7 +47,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.0.0.jar",
             "size": 159127,
             "name": "http-api-4.0.0.jar",
-            "hash": "28e04d5bc7a60c7418b8c96d90c61b7bcbe750d42e3e3305f5ae3bb781a8ea46"
+            "hash": "8cef5f552f4d17176e8a0c190eea748c4e502e6d32cd6d559d562a684778eb17"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.0.0.jar",
@@ -57,9 +57,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.0.0.jar",
-            "size": 1253670,
+            "size": 1253667,
             "name": "runelite-api-4.0.0.jar",
-            "hash": "b4bd8a2ce00f1b8b13315455a6c092ff6e19e37f6d1ddfbd87a520734dfd5dd1"
+            "hash": "147986c17bcfb496b55023e2b4215e2ce70ae5b761a270e7d041652f38811673"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -116,10 +116,10 @@
             "hash": "a250782ab8036cd049e063a40d6744ecf7bd9247714d459a2a67ca354541e7af"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar",
-            "size": 2327547,
-            "name": "jna-platform-4.5.1.jar",
-            "hash": "84c8667555ee8dd91fef44b451419f6f16f71f727d5fc475a10c2663eba83abb"
+            "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.7.0/jna-platform-5.7.0.jar",
+            "size": 1337447,
+            "name": "jna-platform-5.7.0.jar",
+            "hash": "42e020705692eddbd285e2b72ef0ff468f51a926382569c45f4e9cea4602ad1e"
         },
         {
             "path": "https://repo.runelite.net/net/runelite/discord/1.4/discord-1.4.jar",
@@ -128,10 +128,10 @@
             "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar",
-            "size": 1440662,
-            "name": "jna-4.5.1.jar",
-            "hash": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b"
+            "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.7.0/jna-5.7.0.jar",
+            "size": 1686295,
+            "name": "jna-5.7.0.jar",
+            "hash": "c34e3e002cca6e197379c105b554255cc0638101ed7a09ef00334dade0013621"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jgroups/jgroups/5.0.4.Final/jgroups-5.0.4.Final.jar",
@@ -351,9 +351,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.0.0.jar",
-            "size": 10055295,
+            "size": 10055284,
             "name": "runelite-client-4.0.0.jar",
-            "hash": "1ec07354602cd9bdd089a89b90a86f1a7617da9579c2dc4cdd497daf4714a6e4"
+            "hash": "1fc16f6674273b961311fd68e04f30f43845bde03dce85c4cb9a096b58907d22"
         }
     ]
 }
