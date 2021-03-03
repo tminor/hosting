@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "579d32d612acc34d2067343886b0195d1425dbd1",
+    "buildCommit": "259d80201aa6ef36bfc80265e5e98b517aeb71aa",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,25 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.0.0",
+    "projectVersion": "4.0.1",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.0.0.jar",
-            "size": 159146,
-            "name": "http-api-4.0.0.jar",
-            "hash": "cc2a5b47e4c625f1ab0881f8efa1d9d1f5659b42e91baec9e59ab8c5f474e9bd"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.0.1.jar",
+            "size": 159144,
+            "name": "http-api-4.0.1.jar",
+            "hash": "89d3ddc1e50f3be710a628adbeffdf8b018b4e67324d4c51619ae31f7977b609"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.0.0.jar",
-            "size": 107534,
-            "name": "runescape-api-4.0.0.jar",
-            "hash": "60d58e603b99e7cc8f63ea5e9bf1640227733c34584ef1ba22d843cb7e93e2cb"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.0.1.jar",
+            "size": 107599,
+            "name": "runescape-api-4.0.1.jar",
+            "hash": "410635197f6e026ba7d6747d7708b6f809149e8a4b8b73d1668c8120aeb0b2a5"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.0.0.jar",
-            "size": 1253678,
-            "name": "runelite-api-4.0.0.jar",
-            "hash": "c3ae2478faf591eee13e10b778d7db4bdeafa82e17c6e2abc8e63474441c8ae1"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.0.1.jar",
+            "size": 1254047,
+            "name": "runelite-api-4.0.1.jar",
+            "hash": "4c60eed80f39f2510e3cc334fb7820cd2b2c2bcde9f0aef89329bf30fcae1ee7"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/openosrs/runelite-jshell/4.0.1/runelite-jshell-4.0.1.jar",
+            "size": 22754,
+            "name": "runelite-jshell-4.0.1.jar",
+            "hash": "f8031f44a9e5ca14241ef63fa18be7222ba00e57edfda62d69d0b4440699eff7"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -284,6 +290,18 @@
             "hash": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008"
         },
         {
+            "path": "https://repo.maven.apache.org/maven2/com/fifesoft/autocomplete/3.1.1/autocomplete-3.1.1.jar",
+            "size": 153177,
+            "name": "autocomplete-3.1.1.jar",
+            "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/fifesoft/rsyntaxtextarea/3.1.2/rsyntaxtextarea-3.1.2.jar",
+            "size": 1209918,
+            "name": "rsyntaxtextarea-3.1.2.jar",
+            "hash": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097"
+        },
+        {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar",
             "size": 471901,
             "name": "logback-core-1.2.3.jar",
@@ -350,10 +368,10 @@
             "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.0.0.jar",
-            "size": 7849244,
-            "name": "runelite-client-4.0.0.jar",
-            "hash": "e893992f08784a824dab67ffd6ccd3c5297fefb731b7d590f77e96ba3f0432f2"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.0.1.jar",
+            "size": 7855314,
+            "name": "runelite-client-4.0.1.jar",
+            "hash": "6dab00981b5beec58f68feb7b28b5e45e5c8ce9471a12611f74a15988eb4c4c6"
         }
     ]
 }
