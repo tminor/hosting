@@ -62,7 +62,7 @@
             "hash": "4c60eed80f39f2510e3cc334fb7820cd2b2c2bcde9f0aef89329bf30fcae1ee7"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/com/openosrs/runelite-jshell/4.0.1/runelite-jshell-4.0.1.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.0.1.jar",
             "size": 22754,
             "name": "runelite-jshell-4.0.1.jar",
             "hash": "f8031f44a9e5ca14241ef63fa18be7222ba00e57edfda62d69d0b4440699eff7"
@@ -369,9 +369,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.0.1.jar",
-            "size": 7855314,
+            "size": 10068083,
             "name": "runelite-client-4.0.1.jar",
-            "hash": "6dab00981b5beec58f68feb7b28b5e45e5c8ce9471a12611f74a15988eb4c4c6"
+            "hash": "beb59273b94e99a8a12745067875e0f203d9b3912caedf0a828958df64dff476"
         }
     ]
 }
