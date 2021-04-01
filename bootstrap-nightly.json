@@ -45,9 +45,9 @@
     "artifacts": [
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.3.0.jar",
-            "size": 159713,
+            "size": 159710,
             "name": "http-api-4.3.0.jar",
-            "hash": "f49aeabb848a063236d6bc1d138fe39d30c927e3919f200c8030a3bd03c6b3bd"
+            "hash": "a2a0cae811fa4ddfc4659e6bdc40e11af4e1984e48fac2244de95b400e924a24"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.3.0.jar",
@@ -63,9 +63,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.3.0.jar",
-            "size": 22754,
+            "size": 22730,
             "name": "runelite-jshell-4.3.0.jar",
-            "hash": "f8031f44a9e5ca14241ef63fa18be7222ba00e57edfda62d69d0b4440699eff7"
+            "hash": "de2c07a068a5fc67bf8fcebd2afd42eb11d9c71790f5d17e6719cb8d9818bb17"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -369,9 +369,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.3.0.jar",
-            "size": 7866859,
+            "size": 7865897,
             "name": "runelite-client-4.3.0.jar",
-            "hash": "40fc507f144b58e2ecbda0cacf528ff67408cf8f0693fc27b78ffbd6cf0289ca"
+            "hash": "f6fa37bf8b8b6a953ef994b4943c8c363b3951bdd128cbe79612c3438ec77864"
         }
     ]
 }

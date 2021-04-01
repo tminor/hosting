@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.3",
-      "buildId": "xyplin3e5nhmnaeqsbzx4o4u7u"
+      "buildId": "dk5mqzilyrge7dj7gbfdzx42oq"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "runelite-jshell-4.3.0.jar",
           "url": "runelite-jshell-4.3.0.jar",
-          "size": 22754,
-          "sha512": "8658b0df6b5e164300f7958fa523b08855b6e329f124b89dd77155bc2d5af48876c6d20f61f72a9afe749a32920266820473f633cef095d65c2cd8d16fbf8cbc",
-          "sha256": "f8031f44a9e5ca14241ef63fa18be7222ba00e57edfda62d69d0b4440699eff7",
-          "sha1": "9faf9b0e2e14659efb785e1e79adc66d13a6fff7",
-          "md5": "7c9693f392930f14ad8cb41bf77022a3"
+          "size": 22730,
+          "sha512": "f4f1bd1eac4b4180fe27f6b9467c9756f122d3f6d2d01b0a3fe610bd449038c9b5b845c45534121aa2433d3cef5d273e119955085bcb830f9cc7841afe2d85ea",
+          "sha256": "de2c07a068a5fc67bf8fcebd2afd42eb11d9c71790f5d17e6719cb8d9818bb17",
+          "sha1": "7d0b0431cb9264a0da4c1cfcc90eb389a90fa090",
+          "md5": "17e79f391783c18ca252205b8d178915"
         }
       ]
     },
@@ -94,11 +94,11 @@
         {
           "name": "runelite-jshell-4.3.0.jar",
           "url": "runelite-jshell-4.3.0.jar",
-          "size": 22754,
-          "sha512": "8658b0df6b5e164300f7958fa523b08855b6e329f124b89dd77155bc2d5af48876c6d20f61f72a9afe749a32920266820473f633cef095d65c2cd8d16fbf8cbc",
-          "sha256": "f8031f44a9e5ca14241ef63fa18be7222ba00e57edfda62d69d0b4440699eff7",
-          "sha1": "9faf9b0e2e14659efb785e1e79adc66d13a6fff7",
-          "md5": "7c9693f392930f14ad8cb41bf77022a3"
+          "size": 22730,
+          "sha512": "f4f1bd1eac4b4180fe27f6b9467c9756f122d3f6d2d01b0a3fe610bd449038c9b5b845c45534121aa2433d3cef5d273e119955085bcb830f9cc7841afe2d85ea",
+          "sha256": "de2c07a068a5fc67bf8fcebd2afd42eb11d9c71790f5d17e6719cb8d9818bb17",
+          "sha1": "7d0b0431cb9264a0da4c1cfcc90eb389a90fa090",
+          "md5": "17e79f391783c18ca252205b8d178915"
         }
       ]
     }
