@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.3",
-      "buildId": "xzapypklmrb7nbtdcal6o4ywim"
+      "buildId": "zfzkjimdxjek7nggzovxujt63q"
     }
   },
   "variants": [
@@ -319,17 +319,9 @@
         },
         {
           "group": "net.runelite.gluegen",
-          "module": "gluegen-rt",
+          "module": "gluegen-rt-natives-macosx",
           "version": {
-            "requires": "2.4.0-rc-20200429"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "gluegen-rt",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-macosx-universal"
-            }
+            "requires": "2.4.0-rc-20210117"
           }
         },
         {
@@ -379,17 +371,9 @@
         },
         {
           "group": "net.runelite.jogl",
-          "module": "jogl-all",
+          "module": "jogl-all-natives-macosx",
           "version": {
-            "requires": "2.4.0-rc-20200429"
-          },
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "jogl-all",
-              "type": "jar",
-              "extension": "jar",
-              "classifier": "natives-macosx-universal"
-            }
+            "requires": "2.4.0-rc-20210117"
           }
         },
         {
@@ -447,11 +431,11 @@
         {
           "name": "runelite-client-4.3.0-shaded.jar",
           "url": "runelite-client-4.3.0-shaded.jar",
-          "size": 34333187,
-          "sha512": "ac2fa818fe517b03d247ebe10ae62491bf6fbb1a94dc9f519928890e52228ca11a655da60eb369d8dd0519f7db3aaba907980168d558aee7b82a133f8a9d1cae",
-          "sha256": "f37ae9596425852bb2b8beb50b443dcd801cc7309b338b6f678b211cf881b4b2",
-          "sha1": "0d8ca0fd954c0f6446a32c79533f46731bad4cb8",
-          "md5": "64d3919c64de0b14368bba5647817424"
+          "size": 34570277,
+          "sha512": "c4f9dba5d8941ca4c1cc90ee296fc43b7d8d492fa2e59001cd5743cb32049eb0a0b399ceda7343f544b4bdb461a88fedbc6f20568b6d7b65d4ae2579db30347f",
+          "sha256": "c44e180bec3c567b7dbc22b980c0d86e66456c91cbb30993f49a202becf06a5b",
+          "sha1": "ba49ea5cbe2b2c7c5d9097632e73bfe4ffd4045d",
+          "md5": "7ae302d07eca8f26330fc60b19ea4293"
         }
       ]
     }

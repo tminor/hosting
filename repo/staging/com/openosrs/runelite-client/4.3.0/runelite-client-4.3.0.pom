@@ -215,9 +215,8 @@
     </dependency>
     <dependency>
       <groupId>net.runelite.gluegen</groupId>
-      <artifactId>gluegen-rt</artifactId>
-      <version>2.4.0-rc-20200429</version>
-      <classifier>natives-macosx-universal</classifier>
+      <artifactId>gluegen-rt-natives-macosx</artifactId>
+      <version>2.4.0-rc-20210117</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -243,9 +242,8 @@
     </dependency>
     <dependency>
       <groupId>net.runelite.jogl</groupId>
-      <artifactId>jogl-all</artifactId>
-      <version>2.4.0-rc-20200429</version>
-      <classifier>natives-macosx-universal</classifier>
+      <artifactId>jogl-all-natives-macosx</artifactId>
+      <version>2.4.0-rc-20210117</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
