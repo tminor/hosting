@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "192edfa50eed7e13461f7f829379d039b6718cbe",
+    "buildCommit": "29074efe911b1f2e981d41ba1dd857b69802530c",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,7 +47,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.3.0.jar",
             "size": 159710,
             "name": "http-api-4.3.0.jar",
-            "hash": "a2a0cae811fa4ddfc4659e6bdc40e11af4e1984e48fac2244de95b400e924a24"
+            "hash": "239655df65d435d01be09bed72aaab0a1d1e46874e8f780f888b89ac6ca90c45"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.3.0.jar",
@@ -218,12 +218,6 @@
             "hash": "337582d1ea47c240b1b58e65fdd904a2c9665e42abedf4fcf152bb669d9a3b8e"
         },
         {
-            "path": "http://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-macosx-universal.jar",
-            "size": 3457,
-            "name": "gluegen-rt-2.4.0-rc-20200429-natives-macosx-universal.jar",
-            "hash": "4714b9abe762315b3b42feee90dad2e755ad7a0f6baa5d2d11cbd3d08fe663db"
-        },
-        {
             "path": "http://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429.jar",
             "size": 3556304,
             "name": "jogl-all-2.4.0-rc-20200429.jar",
@@ -248,12 +242,6 @@
             "hash": "e0fa809496961db1b1f840fead006a03357d1215b0464f54dd872081e2e6094b"
         },
         {
-            "path": "http://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-macosx-universal.jar",
-            "size": 232714,
-            "name": "jogl-all-2.4.0-rc-20200429-natives-macosx-universal.jar",
-            "hash": "e040f0f7e77ec76cf9afba153208ae8b437ef3358ffcfe994c002b68fcfddcb9"
-        },
-        {
             "path": "http://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0.jar",
             "size": 67704,
             "name": "jocl-1.0.jar",
@@ -276,6 +264,18 @@
             "size": 79726,
             "name": "trident-1.5.00.jar",
             "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
+        },
+        {
+            "path": "http://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20210117/gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
+            "size": 6539,
+            "name": "gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
+            "hash": "b43354ca58de215423c57d428abc5c8467a1a5f0b00199aa52a67fb9729c70ef"
+        },
+        {
+            "path": "http://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20210117/jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
+            "size": 466728,
+            "name": "jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
+            "hash": "b79043af5a6f64704c1cf70264aa9acfdf8435baeb3b8196fbeb04a0192b0f41"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
