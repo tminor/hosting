@@ -136,7 +136,7 @@
           "group": "net.java.dev.jna",
           "module": "jna",
           "version": {
-            "requires": "5.7.0"
+            "requires": "5.8.0"
           }
         },
         {
@@ -150,7 +150,7 @@
           "group": "net.java.dev.jna",
           "module": "jna-platform",
           "version": {
-            "requires": "5.7.0"
+            "requires": "5.8.0"
           }
         },
         {
@@ -430,11 +430,11 @@
         {
           "name": "runelite-client-4.5.6-shaded.jar",
           "url": "runelite-client-4.5.6-shaded.jar",
-          "size": 34567630,
-          "sha512": "fcbef8a752b0311635ab3132ce437fee204813d53a26600e93386c0441bd24f9350e9a4a6db63fbe901c180a7f8e88b33b7768b5836955a1cbe5a4375a5b6853",
-          "sha256": "607a98bde0d80028f54fdba9be50ca13bfafe5b701555c7273a39fd471b1d21c",
-          "sha1": "b531a2ca39f7f16f31c67da101a41a17eb397117",
-          "md5": "592184182a5df53354aabfeb8031924d"
+          "size": 34611436,
+          "sha512": "623f189196aa5cf89f2e7a87c129ba687ef3aa2e801da81c18f1ed5b76f0bffe594c950161c55e3279d86d3acdb66ebf48a0a20442e805be1b0b7c12f23ea65e",
+          "sha256": "92503fd4052887686df1f56113fdb79dba200cddbab5425d73f58c21c0053c24",
+          "sha1": "fa27992569c613729b9e8496d599699f320188cf",
+          "md5": "84041b5c1afa4b12941f8962ae370335"
         }
       ]
     }
