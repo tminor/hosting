@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "26eb0d4533eec9923999d09df7f610b3d0b123c7",
+    "buildCommit": "36e51cfd1c34fde3d1fd025180b74d9031b671b3",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -45,9 +45,9 @@
     "artifacts": [
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.6.0.jar",
-            "size": 159716,
+            "size": 159717,
             "name": "http-api-4.6.0.jar",
-            "hash": "890513cee511700b1021da5dd52f4f0444169541e1959bbd5c1d03acc3ee9dd8"
+            "hash": "87fe2d11473bd2910ba7c52e4bf24596fef8d44fbc5427567567ed348d90d4af"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.6.0.jar",
@@ -369,9 +369,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.6.0.jar",
-            "size": 7817645,
+            "size": 7816593,
             "name": "runelite-client-4.6.0.jar",
-            "hash": "dfea3d5f21d2440a675799f7074c93606e8be9030f09618ea085b7d91bf5e541"
+            "hash": "96851830e653cf8f292946f0dc09976353163c9150f09081b595f79feede2919"
         }
     ]
 }
