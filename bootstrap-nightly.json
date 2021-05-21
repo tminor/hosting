@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "67bcc0a860acfec90394432b5f037fa293319c61",
+    "buildCommit": "eaf0b6b0604db62af39c845e382e5002d870191d",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,19 +47,19 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.7.0.jar",
             "size": 159717,
             "name": "http-api-4.7.0.jar",
-            "hash": "20d475fc8876ca8f2e6fe7dd4afef2170aa45ff7584dbcfd8e79772c74e4abc3"
+            "hash": "b0eaea21abaceb46e2990f9a5d530ecb9e6aacd78ed83aa66a9d84e8d1d7b75a"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.7.0.jar",
-            "size": 107805,
+            "size": 107813,
             "name": "runescape-api-4.7.0.jar",
-            "hash": "789fe2e4bf642de9403e3ee8331555b0dee4cbdd4a2f6f30efe1ce634de5c2c2"
+            "hash": "b7b20316a6f31de2697109e4ea20a4345ff89bb251a5802b66a58a66539e8117"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.7.0.jar",
-            "size": 1261165,
+            "size": 1261158,
             "name": "runelite-api-4.7.0.jar",
-            "hash": "9575fe390b3cc610e5adeedfd1fdd3266a741c83661494306eeffc1b71368199"
+            "hash": "9742869f14b00528a66139e3432137e798c31b07d8e4f16a7131f1d9b78b2fab"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.7.0.jar",
@@ -369,9 +369,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.7.0.jar",
-            "size": 7858448,
+            "size": 7876484,
             "name": "runelite-client-4.7.0.jar",
-            "hash": "0911c20855668346286c59ae6cbf82db0ad00dde14fb0b70860843fa38efcce4"
+            "hash": "5ee36842768422bf487d504eeb1149e8d2b1f523599ed7070a95971054d413df"
         }
     ]
 }
