@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "ffffffffffffffffffffffffffffffffffffffff",
+    "buildCommit": "38634fcad34288aceafbdeb4d41ef5f76b112fb8",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,13 +41,337 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.7.1",
+    "projectVersion": "4.8.0",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/disabled.jar",
-            "size": 1158,
-            "name": "disabled.jar",
-            "hash": "bd2c23068b37115ff37466292a283fefecdbfa17d5546012ef707e79dfa68c32"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.8.0.jar",
+            "size": 159633,
+            "name": "http-api-4.8.0.jar",
+            "hash": "3d70782d5ee4fa10f6eef07bf0fc3f36be2720f171c901eb1c1db4a55d456139"
+        },
+        {
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.8.0.jar",
+            "size": 109392,
+            "name": "runescape-api-4.8.0.jar",
+            "hash": "8f81948938623c8c8b7b6d088eb52c77ae52c25db1b874b4325d37f15abcf750"
+        },
+        {
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.8.0.jar",
+            "size": 1269826,
+            "name": "runelite-api-4.8.0.jar",
+            "hash": "e7d6259f4728211f1a63487ad9f37710535fe64b59bf706c888d046bff7138ce"
+        },
+        {
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-jshell-4.8.0.jar",
+            "size": 22730,
+            "name": "runelite-jshell-4.8.0.jar",
+            "hash": "de2c07a068a5fc67bf8fcebd2afd42eb11d9c71790f5d17e6719cb8d9818bb17"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
+            "size": 290339,
+            "name": "logback-classic-1.2.3.jar",
+            "hash": "fb53f8539e7fcb8f093a56e138112056ec1dc809ebb020b59d8a36a5ebac37e0"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/pf4j/pf4j-update/2.3.0/pf4j-update-2.3.0.jar",
+            "size": 25736,
+            "name": "pf4j-update-2.3.0.jar",
+            "hash": "79c9d6240cda82c3d31ee7a5722b635a3d37ad58c124a4db0ddea40145c30f45"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar",
+            "size": 241622,
+            "name": "gson-2.8.5.jar",
+            "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/google/inject/guice/4.1.0/guice-4.1.0.jar",
+            "size": 428603,
+            "name": "guice-4.1.0-no_aop.jar",
+            "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/google/guava/guava/23.2-jre/guava-23.2-jre.jar",
+            "size": 2649860,
+            "name": "guava-23.2-jre.jar",
+            "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.jar",
+            "size": 2303679,
+            "name": "h2-1.4.200.jar",
+            "hash": "3ad9ac4b6aae9cd9d3ac1c447465e1ed06019b851b893dd6a8d76ddb6d85bca6"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/jakewharton/rxrelay3/rxrelay/3.0.0/rxrelay-3.0.0.jar",
+            "size": 28074,
+            "name": "rxrelay-3.0.0.jar",
+            "hash": "6511628edf3483a380e0e5f5a38c6c61700c529048f1f55f253bed58b6f1bf8a"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.jar",
+            "size": 394987,
+            "name": "okhttp-3.7.0.jar",
+            "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/io/reactivex/rxjava3/rxjava/3.0.10/rxjava-3.0.10.jar",
+            "size": 2647137,
+            "name": "rxjava-3.0.10.jar",
+            "hash": "a250782ab8036cd049e063a40d6744ecf7bd9247714d459a2a67ca354541e7af"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.8.0/jna-platform-5.8.0.jar",
+            "size": 1338206,
+            "name": "jna-platform-5.8.0.jar",
+            "hash": "ffd93fe1bc07de6f33eabf3d051c3636e01a01c17cb0da8448c53a2ac5e3bf7a"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/discord/1.4/discord-1.4.jar",
+            "size": 681590,
+            "name": "discord-1.4.jar",
+            "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar",
+            "size": 1729586,
+            "name": "jna-5.8.0.jar",
+            "hash": "930273cc1c492f25661ea62413a6da3fd7f6e01bf1c4dcc0817fc8696a7b07ac"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/jgroups/jgroups/5.0.4.Final/jgroups-5.0.4.Final.jar",
+            "size": 2100291,
+            "name": "jgroups-5.0.4.Final.jar",
+            "hash": "c33d11d6e5a6f1d34f3eeb3151de0272f74dc54030ca64ca86c61eb1477b9e3f"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
+            "size": 1589195,
+            "name": "substance-8.0.02.jar",
+            "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.1/jopt-simple-5.0.1.jar",
+            "size": 78826,
+            "name": "jopt-simple-5.0.1.jar",
+            "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.2/commons-text-1.2.jar",
+            "size": 136544,
+            "name": "commons-text-1.2.jar",
+            "hash": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar",
+            "size": 285424,
+            "name": "commons-io-2.8.0.jar",
+            "hash": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar",
+            "size": 26211,
+            "name": "annotations-20.1.0.jar",
+            "hash": "edc8e3ec9796a5f41c1ae44b2d318507ee6ac1212f121d93d33699b3d0aff638"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/pf4j/pf4j/3.6.0/pf4j-3.6.0.jar",
+            "size": 125230,
+            "name": "pf4j-3.6.0.jar",
+            "hash": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/github/zafarkhaja/java-semver/0.9.0/java-semver-0.9.0.jar",
+            "size": 46843,
+            "name": "java-semver-0.9.0.jar",
+            "hash": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar",
+            "size": 41203,
+            "name": "slf4j-api-1.7.25.jar",
+            "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429.jar",
+            "size": 360948,
+            "name": "gluegen-rt-2.4.0-rc-20200429.jar",
+            "hash": "f21532326c62b8371ffe5bb5c9cdb5ae2e1c73f4893e6212f34a005a3755a58f"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-linux-amd64.jar",
+            "size": 4332,
+            "name": "gluegen-rt-2.4.0-rc-20200429-natives-linux-amd64.jar",
+            "hash": "785f12e6c4242450ed5bcadc541288c9ec8a9b965ee6b5cae6bff2a2c65c1e35"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-windows-amd64.jar",
+            "size": 8696,
+            "name": "gluegen-rt-2.4.0-rc-20200429-natives-windows-amd64.jar",
+            "hash": "b02d1c1fa3184c977e04d4abc7c944676d0591fb363885762abc5e0ced7d0b92"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-windows-i586.jar",
+            "size": 7526,
+            "name": "gluegen-rt-2.4.0-rc-20200429-natives-windows-i586.jar",
+            "hash": "337582d1ea47c240b1b58e65fdd904a2c9665e42abedf4fcf152bb669d9a3b8e"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429.jar",
+            "size": 3556304,
+            "name": "jogl-all-2.4.0-rc-20200429.jar",
+            "hash": "100e3c65ca864732f1616d575e114e1352e6bb5b073467d42acd4c4126cfca40"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-linux-amd64.jar",
+            "size": 244518,
+            "name": "jogl-all-2.4.0-rc-20200429-natives-linux-amd64.jar",
+            "hash": "4bad2ac72598f517f284b172827fcec591569dcf2a551b5315d58c6ddbbed94d"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-windows-amd64.jar",
+            "size": 227080,
+            "name": "jogl-all-2.4.0-rc-20200429-natives-windows-amd64.jar",
+            "hash": "65512191409b98be8f435fc82dca5fe964ce79cdde5cdd09783144b5391893b2"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-windows-i586.jar",
+            "size": 198922,
+            "name": "jogl-all-2.4.0-rc-20200429-natives-windows-i586.jar",
+            "hash": "e0fa809496961db1b1f840fead006a03357d1215b0464f54dd872081e2e6094b"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0.jar",
+            "size": 67704,
+            "name": "jocl-1.0.jar",
+            "hash": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-x64.jar",
+            "size": 59030,
+            "name": "jocl-1.0-macos-x64.jar",
+            "hash": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-arm64.jar",
+            "size": 59579,
+            "name": "jocl-1.0-macos-arm64.jar",
+            "hash": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
+            "size": 79726,
+            "name": "trident-1.5.00.jar",
+            "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt-natives-macosx/2.4.0-rc-20210117/gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
+            "size": 6539,
+            "name": "gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
+            "hash": "b43354ca58de215423c57d428abc5c8467a1a5f0b00199aa52a67fb9729c70ef"
+        },
+        {
+            "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all-natives-macosx/2.4.0-rc-20210117/jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
+            "size": 466728,
+            "name": "jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
+            "hash": "b79043af5a6f64704c1cf70264aa9acfdf8435baeb3b8196fbeb04a0192b0f41"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+            "size": 19936,
+            "name": "jsr305-3.0.2.jar",
+            "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-csv/1.4/commons-csv-1.4.jar",
+            "size": 39978,
+            "name": "commons-csv-1.4.jar",
+            "hash": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/fifesoft/autocomplete/3.1.1/autocomplete-3.1.1.jar",
+            "size": 153177,
+            "name": "autocomplete-3.1.1.jar",
+            "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/fifesoft/rsyntaxtextarea/3.1.2/rsyntaxtextarea-3.1.2.jar",
+            "size": 1209918,
+            "name": "rsyntaxtextarea-3.1.2.jar",
+            "hash": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar",
+            "size": 471901,
+            "name": "logback-core-1.2.3.jar",
+            "hash": "5946d837fe6f960c02a53eda7a6926ecc3c758bbdd69aa453ee429f858217f22"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar",
+            "size": 12078,
+            "name": "error_prone_annotations-2.0.18.jar",
+            "hash": "cb4cfad870bf563a07199f3ebea5763f0dec440fcda0b318640b1feaa788656b"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar",
+            "size": 8782,
+            "name": "j2objc-annotations-1.1.jar",
+            "hash": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar",
+            "size": 3482,
+            "name": "animal-sniffer-annotations-1.14.jar",
+            "hash": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar",
+            "size": 2497,
+            "name": "javax.inject-1.jar",
+            "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
+            "size": 4467,
+            "name": "aopalliance-1.0.jar",
+            "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.jar",
+            "size": 81088,
+            "name": "okio-1.12.0.jar",
+            "hash": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
+            "size": 11369,
+            "name": "reactive-streams-1.0.3.jar",
+            "hash": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar",
+            "size": 499634,
+            "name": "commons-lang3-3.7.jar",
+            "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+            "size": 284184,
+            "name": "commons-codec-1.10.jar",
+            "hash": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569"
+        },
+        {
+            "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
+            "size": 7298,
+            "name": "injection-annotations-1.0.jar",
+            "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
+        },
+        {
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.8.0.jar",
+            "size": 7906114,
+            "name": "runelite-client-4.8.0.jar",
+            "hash": "13fec1d62aced84bcc77c3b3af97c0213a9db82f2888cfcf9a7dd5b5515a714f"
         }
     ]
 }
