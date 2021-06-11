@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "6eb876b6f62c3034a0bedb0f5fe07f34109e9d3b",
+    "buildCommit": "3ade7995adfe4acea6ed7b93dbf7fc8a8d38a00f",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,19 +47,19 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.8.1.jar",
             "size": 159868,
             "name": "http-api-4.8.1.jar",
-            "hash": "3b7d1a881f7d890da8dd6e0cc5a2f8c290daeac6c7e6823f5d02fbc86139fe32"
+            "hash": "4c6605752f218932bf35346d3c7e2b05deaaf92eedc565995a18454714a4201c"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.8.1.jar",
-            "size": 109392,
+            "size": 109406,
             "name": "runescape-api-4.8.1.jar",
-            "hash": "8f81948938623c8c8b7b6d088eb52c77ae52c25db1b874b4325d37f15abcf750"
+            "hash": "a023d5777ff91bc8276c414e2188d91fbfd69a1e17099c2cbbf2c656428d98ab"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.8.1.jar",
-            "size": 1272517,
+            "size": 1272526,
             "name": "runelite-api-4.8.1.jar",
-            "hash": "ef66f833fc5a1c28b97c561690b357fc8d356576535e28c1112a42c119a5e4fb"
+            "hash": "19c775c94a0cded98e750be1adb49698f201ff3cb1d99864c44e7af36a958e5e"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.8.1.jar",
@@ -369,9 +369,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.8.1.jar",
-            "size": 7911049,
+            "size": 7912847,
             "name": "runelite-client-4.8.1.jar",
-            "hash": "80f68a6cc7dcb3988f6a7891f1d016e9aa84119f8d671bff280284a86a21115c"
+            "hash": "bc03afa3fc0d8745a32fca8d4bbf3a85a6d3ad45c29bcacc1b152028b6fa62a1"
         }
     ]
 }
