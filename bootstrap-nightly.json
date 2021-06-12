@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "3ade7995adfe4acea6ed7b93dbf7fc8a8d38a00f",
+    "buildCommit": "0e8b9c41911a3c2fef965ca390f6e103a5cf6c1d",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,7 +47,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.8.1.jar",
             "size": 159868,
             "name": "http-api-4.8.1.jar",
-            "hash": "4c6605752f218932bf35346d3c7e2b05deaaf92eedc565995a18454714a4201c"
+            "hash": "294992ca563a92628ece6e9d8fa4d02a2a6c759222c9583bd1a15c8c86892c6c"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.8.1.jar",
