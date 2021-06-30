@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "29da19b946ce0040b5d210671fb18c8f3e076cef",
+    "buildCommit": "6a2548b735e4f0eb5fca623874f9213a6bd75b02",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,30 +41,30 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.9.0",
+    "projectVersion": "4.9.2",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.9.0.jar",
-            "size": 157340,
-            "name": "http-api-4.9.0.jar",
-            "hash": "512e0814f7b3ce7a03f01d0507fcc535789578e61eb6a3dbcfa665e3a1c461c2"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.9.2.jar",
+            "size": 157342,
+            "name": "http-api-4.9.2.jar",
+            "hash": "d8ad80d77b2150828cbc175c828ec2d38a868116e064d1aa0899f750970276f4"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.9.0.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.9.2.jar",
             "size": 109466,
-            "name": "runescape-api-4.9.0.jar",
+            "name": "runescape-api-4.9.2.jar",
             "hash": "89315678b287fb71cf8dbac4c6c7c899e427618a38a2517c9631fc7d5fdb63ac"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.9.0.jar",
-            "size": 1273294,
-            "name": "runelite-api-4.9.0.jar",
-            "hash": "acc1bde262283480d16fc7e9d49427bde8dc2a812527447d338f6e587873647a"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.9.2.jar",
+            "size": 1273733,
+            "name": "runelite-api-4.9.2.jar",
+            "hash": "bccf7de27721d56d2b61f2ec3ffd00a87d44fa24ffefd8eb66b2a21a7dc89f30"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.9.0.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.9.2.jar",
             "size": 22730,
-            "name": "runelite-jshell-4.9.0.jar",
+            "name": "runelite-jshell-4.9.2.jar",
             "hash": "de2c07a068a5fc67bf8fcebd2afd42eb11d9c71790f5d17e6719cb8d9818bb17"
         },
         {
@@ -368,10 +368,10 @@
             "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.9.0.jar",
-            "size": 7976332,
-            "name": "runelite-client-4.9.0.jar",
-            "hash": "b8c45e7f2ac6b5a26df316f003f5720ea06f602abbbdec23d429376ba8a83960"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.9.2.jar",
+            "size": 7990862,
+            "name": "runelite-client-4.9.2.jar",
+            "hash": "65fc6f435e402dd6a3a6c3321e639c26761215fb0535df0c7f1854b919c88a64"
         }
     ]
 }
