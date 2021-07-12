@@ -431,10 +431,10 @@
           "name": "runelite-client-4.9.5-shaded.jar",
           "url": "runelite-client-4.9.5-shaded.jar",
           "size": 34761717,
-          "sha512": "838e999dcdb2dbf5e941f692df0cf331e171b52333935e50f094c375bf2903910785a64978638e28595da86cf9cbff924d7dc805a49f2a4839c7935326820368",
-          "sha256": "f2f8a5bd21d491efe57222118fa419b481e0f847353ca12d6d65507b54a3b5b8",
-          "sha1": "fd311faebeb2bbdf05290da09c69e079215083ab",
-          "md5": "e695c5688afc7800a2cbe6e3076788b0"
+          "sha512": "fdd8d630b083a6297b6806d201933fa11ecda6ca0bee41a626ad226a5ee0aa769fc7159064505c3fe5ad079c1141f31a5a853b01214cc56a7c42950ae0d22a3a",
+          "sha256": "8b675d13f7b989f43b45295ea607dc46fe134fcdcb46dd92236d0ee642a876b6",
+          "sha1": "7835971b080354106d6a54337fb353a3645d9784",
+          "md5": "9cba006caf35a7e5d2b8b85d2ae04e7e"
         }
       ]
     }
