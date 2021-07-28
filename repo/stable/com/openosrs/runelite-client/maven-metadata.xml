@@ -3,11 +3,11 @@
   <groupId>com.openosrs</groupId>
   <artifactId>runelite-client</artifactId>
   <versioning>
-    <latest>4.9.8</latest>
-    <release>4.9.8</release>
+    <latest>4.9.9</latest>
+    <release>4.9.9</release>
     <versions>
-      <version>4.9.8</version>
+      <version>4.9.9</version>
     </versions>
-    <lastUpdated>20210728113315</lastUpdated>
+    <lastUpdated>20210728133135</lastUpdated>
   </versioning>
 </metadata>
