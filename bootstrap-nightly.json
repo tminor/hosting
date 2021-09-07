@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "499da6345d72fa093e2a1248ae6aa52a309fa713",
+    "buildCommit": "6253cf1e486978f1e1ab54627df2708e6b7bafc7",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -45,21 +45,21 @@
     "artifacts": [
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.9.13.jar",
-            "size": 158533,
+            "size": 158715,
             "name": "http-api-4.9.13.jar",
-            "hash": "635ef903c2b36fc45e887ce27a560ecac6eac93fc4a4bb99f8247e1090c0b07b"
+            "hash": "182859175e6b8e6d768fcd20e9838f67407b65ce773d2e1eb47b76d618241e95"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.9.13.jar",
-            "size": 109506,
+            "size": 109489,
             "name": "runescape-api-4.9.13.jar",
-            "hash": "abf887cf2ad3062c1d5a78fe608e3764752890f226551009ca0fbd987f8355dc"
+            "hash": "0043019675640b9171e6b12dd0428b8506249c96e8ed6e4112b005b8b842debb"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.9.13.jar",
-            "size": 1281992,
+            "size": 1282022,
             "name": "runelite-api-4.9.13.jar",
-            "hash": "e76668cd386ec9671cadd3fea163bdef749e3f0a97cf8456c35b74f79f4f8794"
+            "hash": "ca73a7e2a51c2830618ad05b50ba20e9ca9378356092a6ff89f515af70508154"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.9.13.jar",
@@ -369,9 +369,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.9.13.jar",
-            "size": 9097763,
+            "size": 9102791,
             "name": "runelite-client-4.9.13.jar",
-            "hash": "f50be4deb93feef0fd7b5709390507ca85fc86b9a93abbc8476b505d61636ee4"
+            "hash": "15b1a1b9222d843b1b7c84b243c64f0d5d746a7ad7503f2b66293277d91f143d"
         }
     ]
 }
