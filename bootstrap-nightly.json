@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "f51d7aee6cbb9fec2872fb4b96d11e8eae402b99",
+    "buildCommit": "6890dddf3946e6671272d0d1687e6e6b016f084a",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,19 +47,19 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.10.0.jar",
             "size": 158715,
             "name": "http-api-4.10.0.jar",
-            "hash": "58f7a2cc42fc3f73ba11a8a0cc332bcb171e67ff7051358a1e5ca673ac968097"
+            "hash": "1db76dfd7136c511914a68f86982aae75f52bff49d55ec8a1133af08e0e09154"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.10.0.jar",
-            "size": 111179,
+            "size": 111191,
             "name": "runescape-api-4.10.0.jar",
-            "hash": "e79cc3e03c1c56bdab69fedfa4650a06633f7f4bb0589048d2b362fec610f62a"
+            "hash": "ea1ecedd4c0b548bcdfb7a392c64c212215337ced69e5b2053c371b9b9860949"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.10.0.jar",
-            "size": 1285027,
+            "size": 1285043,
             "name": "runelite-api-4.10.0.jar",
-            "hash": "c3e7e53c5eb1758d7115a2db29928ef68bd4190f27248774a0828ddd8758fe3f"
+            "hash": "dded692378561c396413a9134d1a757dbb136f142fc0d07b397431c5b6dc645b"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.10.0.jar",
@@ -369,9 +369,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.10.0.jar",
-            "size": 9117185,
+            "size": 9117231,
             "name": "runelite-client-4.10.0.jar",
-            "hash": "332c09764e640649c62709de85ebdfb87803b147d30fbffe0a21ced7d6ada665"
+            "hash": "98a930aa34e34e6d632c517a6cce795c4ee1a1565341da0f6b9e28fd94dc4e81"
         }
     ]
 }
