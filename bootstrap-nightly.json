@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "7643e158ee600f5bca1a7a8e4009b2eacf5b89be",
+    "buildCommit": "e70f4047b20bbfc4c474f185676b8273a3230ba2",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -45,9 +45,9 @@
     "artifacts": [
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.12.0.jar",
-            "size": 158715,
+            "size": 158714,
             "name": "http-api-4.12.0.jar",
-            "hash": "334e4ca26ca8afd853fa3c1b1436e1ceb0c1274f0151ffd5fee72bb11580dc87"
+            "hash": "e8505406d679d375d50b02ce815396c1e3ab6dc953e37e254da50f99ac7df81e"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.12.0.jar",
@@ -146,10 +146,10 @@
             "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/org/pushing-pixels/radiance-substance/4.0.0/radiance-substance-4.0.0.jar",
-            "size": 1515412,
-            "name": "radiance-substance-4.0.0.jar",
-            "hash": "9fb37c2eb36ccaf367dfbdcb2588a83953f4204ae9f40267c12d0ffd3206cd12"
+            "path": "https://repo.runelite.net/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
+            "size": 1589195,
+            "name": "substance-8.0.02.jar",
+            "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
@@ -374,18 +374,6 @@
             "hash": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/org/pushing-pixels/radiance-neon/4.0.0/radiance-neon-4.0.0.jar",
-            "size": 51309,
-            "name": "radiance-neon-4.0.0.jar",
-            "hash": "3639ffad05f78186a0a8d32935a9c0712a22a4ea08947c6faa892fd8a204a909"
-        },
-        {
-            "path": "https://repo.maven.apache.org/maven2/org/pushing-pixels/radiance-trident/4.0.0/radiance-trident-4.0.0.jar",
-            "size": 90185,
-            "name": "radiance-trident-4.0.0.jar",
-            "hash": "5e0c29ebb592d19cd0ea948d022468e8b75ff101d79544c027a55d8984009cba"
-        },
-        {
             "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar",
             "size": 577742,
             "name": "commons-lang3-3.11.jar",
@@ -411,9 +399,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.12.0.jar",
-            "size": 9322911,
+            "size": 9322865,
             "name": "runelite-client-4.12.0.jar",
-            "hash": "c072f308da8cde6108b4b1a4e18c071d9968d0d867bd030de7ec157ca083df6c"
+            "hash": "34009067ca01469b22336ca1a17ad79a74d7a90dc72c4f41d7de80a25b0b66fc"
         }
     ]
 }
