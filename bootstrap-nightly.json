@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "e70f4047b20bbfc4c474f185676b8273a3230ba2",
+    "buildCommit": "c79df8251eeedfb39db2e8943d9ff1b4b6a120fe",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -45,9 +45,9 @@
     "artifacts": [
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.12.0.jar",
-            "size": 158714,
+            "size": 158715,
             "name": "http-api-4.12.0.jar",
-            "hash": "e8505406d679d375d50b02ce815396c1e3ab6dc953e37e254da50f99ac7df81e"
+            "hash": "f77c4a8046092ccb80a9752eb1cc490e4b0a5f2b2f64927dacb9024d1f9fe3fc"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.12.0.jar",
