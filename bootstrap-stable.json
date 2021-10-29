@@ -56,12 +56,6 @@
             "hash": "226a0ec3e88c43382ae9accac9c0beabc1384aa91e2d00e23c112a4a46c3d5d1"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/com/openosrs/cache/4.13.1/cache-4.13.1.jar",
-            "size": 410511,
-            "name": "cache-4.13.1.jar",
-            "hash": "213bb6bcefef96613635d5312ac1989d3817673f12139960eb3ab372ca5af8d9"
-        },
-        {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.13.1.jar",
             "size": 172794,
             "name": "http-api-4.13.1.jar",
