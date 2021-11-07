@@ -46,6 +46,24 @@
       <artifactId>guava</artifactId>
       <version>30.1.1-jre</version>
       <scope>runtime</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>j2objc-annotations</artifactId>
+          <groupId>com.google.j2objc</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>jsr305</artifactId>
+          <groupId>com.google.code.findbugs</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>animal-sniffer-annotations</artifactId>
+          <groupId>org.codehaus.mojo</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>error_prone_annotations</artifactId>
+          <groupId>com.google.errorprone</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.google.inject</groupId>
@@ -74,7 +92,7 @@
     <dependency>
       <groupId>io.reactivex.rxjava3</groupId>
       <artifactId>rxjava</artifactId>
-      <version>3.1.1</version>
+      <version>3.1.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
