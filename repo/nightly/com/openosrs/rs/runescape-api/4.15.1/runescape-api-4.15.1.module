@@ -44,10 +44,10 @@
           "name": "runescape-api-4.15.1.jar",
           "url": "runescape-api-4.15.1.jar",
           "size": 143795,
-          "sha512": "92483c1688910226b4953390f7878bbe0af202a4f13820be45481fc12b906d155ddf7d495189af5ea4990a9f161aec29f1cb3cfabfe5a99ef9aef20bbf005d12",
-          "sha256": "b3bd10a0ae95ab3a14a344feaddcf85dcf41bbf55656da90bd9d77839b3f6120",
-          "sha1": "4e9cd7e82b91e12c901bc5131cde8240ab926d5c",
-          "md5": "19f4387daf2908fb95089c0e1847a621"
+          "sha512": "0b51ab40b963feebcb7e58049defb748f70e62e75872a9175b7f9fe4016d11740efd0f0b7dbf2dbb40a864e290229016d9c091a4c20b567bde9404de9afce208",
+          "sha256": "0ec0ed454b0bd91e326615d4d87a4f7b145fc45163ee345766abc5a740cdb17d",
+          "sha1": "6a51ac05ae951e20b48f72750af2892fdcad4fbe",
+          "md5": "11b6f1d01f9e784fc07fe3bed42c2bf3"
         }
       ]
     },
@@ -81,10 +81,10 @@
           "name": "runescape-api-4.15.1.jar",
           "url": "runescape-api-4.15.1.jar",
           "size": 143795,
-          "sha512": "92483c1688910226b4953390f7878bbe0af202a4f13820be45481fc12b906d155ddf7d495189af5ea4990a9f161aec29f1cb3cfabfe5a99ef9aef20bbf005d12",
-          "sha256": "b3bd10a0ae95ab3a14a344feaddcf85dcf41bbf55656da90bd9d77839b3f6120",
-          "sha1": "4e9cd7e82b91e12c901bc5131cde8240ab926d5c",
-          "md5": "19f4387daf2908fb95089c0e1847a621"
+          "sha512": "0b51ab40b963feebcb7e58049defb748f70e62e75872a9175b7f9fe4016d11740efd0f0b7dbf2dbb40a864e290229016d9c091a4c20b567bde9404de9afce208",
+          "sha256": "0ec0ed454b0bd91e326615d4d87a4f7b145fc45163ee345766abc5a740cdb17d",
+          "sha1": "6a51ac05ae951e20b48f72750af2892fdcad4fbe",
+          "md5": "11b6f1d01f9e784fc07fe3bed42c2bf3"
         }
       ]
     }
