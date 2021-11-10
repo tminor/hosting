@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "2a78ca4c4dffdb579aa96e7a46fe7d6a29d3aafd",
+    "buildCommit": "8a20f43d0cecf1e05df64a32debe064c8f560c13",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,31 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.15.1",
+    "projectVersion": "4.15.2",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.15.1.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.15.2.jar",
             "size": 143795,
-            "name": "runescape-api-4.15.1.jar",
-            "hash": "be5519101b19f675d3879d4bb8780f00bdcdc839170d2453e87cbdb9d410fa16"
+            "name": "runescape-api-4.15.2.jar",
+            "hash": "3214034a9504987633e01334f00a20004899700a9cad371f031d10f999692d2e"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.15.1.jar",
-            "size": 1331713,
-            "name": "runelite-api-4.15.1.jar",
-            "hash": "7a8f2aec5d3cd44f9a485257bff2a1f1698e58be4a13e88fb7bb7523f6b3f5c9"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.15.2.jar",
+            "size": 1331151,
+            "name": "runelite-api-4.15.2.jar",
+            "hash": "05fa2c52f4a15484ae92d1a2dbfab4b3d5941bde39a1329ebe7cfe41e6a26a82"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.15.1.jar",
-            "size": 172794,
-            "name": "http-api-4.15.1.jar",
-            "hash": "533144ca7440b0b2c886a4240a3827408dde7c440b3dddfc180932917630b8e5"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.15.2.jar",
+            "size": 172799,
+            "name": "http-api-4.15.2.jar",
+            "hash": "42e9c674654a6f1428c41a3c945a831b468cd6c7827ddf376b8830bd91b89e00"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.15.1.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.15.2.jar",
             "size": 26552,
-            "name": "runelite-jshell-4.15.1.jar",
-            "hash": "bddfb8be1ce7c9d015df18c2e7ce62a4f3b839895b613df42d6a77a3336e044c"
+            "name": "runelite-jshell-4.15.2.jar",
+            "hash": "ea13f0f35460070dbc5094b9684c6dbf42d5e9450ef9f7aae389f6bf3b547fb6"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -389,7 +389,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 11385,
             "name": "injection-annotations-1.0.jar",
-            "hash": "4fa42b1e51a4d1dd58724f40199cbe4d7e835ddc27797c9afbe05bce3d6afce7"
+            "hash": "b9212d7f92c0cc4299e9e78f853ec16392d0958b48fe916569971e766a0ad916"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.15.1.jar",
-            "size": 9513984,
-            "name": "runelite-client-4.15.1.jar",
-            "hash": "efd2a208b313f2c9882af2affebe8f6c8bfc76e282c06d037e19e69f4a0c6db7"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.15.2.jar",
+            "size": 9513792,
+            "name": "runelite-client-4.15.2.jar",
+            "hash": "9e73e6a42abdb5a6bd1a6deb03b5d1a2017aa96d7b4b7cd0e6da7e0000f5c76e"
         }
     ]
 }
