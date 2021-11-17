@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "654f2a1c1b222f708448fa31017a480a84e74a79",
+    "buildCommit": "76f8cdaef184cb0ac5ba7ca02a89197684116a87",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,31 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.15.2",
+    "projectVersion": "4.15.3",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.15.2.jar",
-            "size": 143795,
-            "name": "runescape-api-4.15.2.jar",
-            "hash": "95d88083046383ea93c70dd188405fe8af40e21698cbe51988fe43ba41a3332c"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.15.3.jar",
+            "size": 143805,
+            "name": "runescape-api-4.15.3.jar",
+            "hash": "183a5b20fbf3c5e262c161f2a5b39dd3666603f637b97477b0bba73f283ef2bb"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.15.2.jar",
-            "size": 1331151,
-            "name": "runelite-api-4.15.2.jar",
-            "hash": "f13680c3a4e7612b101e77b4fe600f52262e68fdcd01d0551b071b760fcb99d1"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.15.3.jar",
+            "size": 1331183,
+            "name": "runelite-api-4.15.3.jar",
+            "hash": "ee4f21314835d0b8ed8870a3062dfcb511223f9fe4ceace7867b2d8e5b5f3f95"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.15.2.jar",
-            "size": 172790,
-            "name": "http-api-4.15.2.jar",
-            "hash": "9f3e6e25365a4074b23df42157a5643ae774249fee78cbce3f7fd3fa5e83974d"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.15.3.jar",
+            "size": 172791,
+            "name": "http-api-4.15.3.jar",
+            "hash": "5c843b3b91df37d3ab153e8bec6e1304bb590a0de1ab7a73afc4ec7473bf78d5"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-jshell-4.15.2.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-jshell-4.15.3.jar",
             "size": 26552,
-            "name": "runelite-jshell-4.15.2.jar",
-            "hash": "8b7b3fe14c9dab4d8187d0bcbe19747b7d5b2448000a884f8587e6fcf2781014"
+            "name": "runelite-jshell-4.15.3.jar",
+            "hash": "225355d85f71aff07905a2ae55bf920f0906696022f9ce502797855b3ad30f88"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -389,7 +389,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 11385,
             "name": "injection-annotations-1.0.jar",
-            "hash": "2a5323e3c321cd4e98599f18a23f21b01a25daafc6873fbb39dd19d48a8f1734"
+            "hash": "3b77154250c4979389a2d5c894074451462644aa9187b2f0e98934c80540ca54"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.15.2.jar",
-            "size": 9513787,
-            "name": "runelite-client-4.15.2.jar",
-            "hash": "15aecc92182b2f72168586fc6c4a51a7d3a079a33524b35ce4fae7c41d53dbc2"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.15.3.jar",
+            "size": 9516830,
+            "name": "runelite-client-4.15.3.jar",
+            "hash": "78dc1db7c8cdc0bd70f4102b4b1d79719a75e4dd5f7ac895a290630b2d9bbafc"
         }
     ]
 }
