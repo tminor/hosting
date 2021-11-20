@@ -28,10 +28,10 @@
           "name": "runelite-api-4.15.3.jar",
           "url": "runelite-api-4.15.3.jar",
           "size": 1331183,
-          "sha512": "30760eb871db84ad1a3c6432b9dcec4645e38dd098bf441a93e539b7ed1da7b1a8dce404c1f28e1b61935b43edb49c5c46669adbc057121a98c560dd1753a93f",
-          "sha256": "caf55375a884ec8807574f67d5008a2bcede0dde95747ec37bac39c48dc3c4d6",
-          "sha1": "e00851394b0e08373bf3bcae99eb44cf13431898",
-          "md5": "ab2f4dbea27768c2215c0770e4d3902b"
+          "sha512": "25ab1a1ab6c398ee6f434fb6ab694c7f2ab78cfd31b70b1f3ea3eadb3256a259b8ecc1599e752cca463b062b3c01a18aee7edd9d7c6d3433aab37e88841931b8",
+          "sha256": "22a9231db1a7192d5eba5fb647a6727521af48f1f04cee10f56d5f2fd9e8c7d7",
+          "sha1": "16f8c0df6ca16bb8d9306a96e8b388519e024b85",
+          "md5": "53c03ee53f9c74d4a3132749370aecac"
         }
       ]
     },
@@ -79,10 +79,10 @@
           "name": "runelite-api-4.15.3.jar",
           "url": "runelite-api-4.15.3.jar",
           "size": 1331183,
-          "sha512": "30760eb871db84ad1a3c6432b9dcec4645e38dd098bf441a93e539b7ed1da7b1a8dce404c1f28e1b61935b43edb49c5c46669adbc057121a98c560dd1753a93f",
-          "sha256": "caf55375a884ec8807574f67d5008a2bcede0dde95747ec37bac39c48dc3c4d6",
-          "sha1": "e00851394b0e08373bf3bcae99eb44cf13431898",
-          "md5": "ab2f4dbea27768c2215c0770e4d3902b"
+          "sha512": "25ab1a1ab6c398ee6f434fb6ab694c7f2ab78cfd31b70b1f3ea3eadb3256a259b8ecc1599e752cca463b062b3c01a18aee7edd9d7c6d3433aab37e88841931b8",
+          "sha256": "22a9231db1a7192d5eba5fb647a6727521af48f1f04cee10f56d5f2fd9e8c7d7",
+          "sha1": "16f8c0df6ca16bb8d9306a96e8b388519e024b85",
+          "md5": "53c03ee53f9c74d4a3132749370aecac"
         }
       ]
     }
