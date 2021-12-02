@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "1260239871034d26a16e7a6b23ea129f1851dfee",
+    "buildCommit": "401acecf506900e9d3d7f119824e8f6bb7151542",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,31 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.15.4",
+    "projectVersion": "4.15.5",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.15.4.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.15.5.jar",
             "size": 143805,
-            "name": "runescape-api-4.15.4.jar",
-            "hash": "44b77dcd799f1b2cf50bcd17e3ef32dbc37b702828b76a781c11bee5998a4bc9"
+            "name": "runescape-api-4.15.5.jar",
+            "hash": "762ac4c0eeb565433e87794e0dd72f12b22ef378760a2730f26e7bd6a485d8f1"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.15.4.jar",
-            "size": 1331264,
-            "name": "runelite-api-4.15.4.jar",
-            "hash": "1ba29eae28fd9ca3b706d01cdba0cae859c1f053386f514436225e84c3f79165"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.15.5.jar",
+            "size": 1331360,
+            "name": "runelite-api-4.15.5.jar",
+            "hash": "e3873e94a2451a0449486d0b602633258af71e0b1819812a5bb141afc7d85e85"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.15.4.jar",
-            "size": 172792,
-            "name": "http-api-4.15.4.jar",
-            "hash": "956444dde2a1254430f459bb3bbf658fb4897851d5906684560316f69c53781e"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.15.5.jar",
+            "size": 172796,
+            "name": "http-api-4.15.5.jar",
+            "hash": "570e2fa12dd1994fa9fd28e43b44825bb1196bb072a7658771c52b023c978c37"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.15.4.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.15.5.jar",
             "size": 26552,
-            "name": "runelite-jshell-4.15.4.jar",
-            "hash": "7e8801742a745ccc025b3dcada7beee500f5ed8eeb1522e048ea7baa286f3980"
+            "name": "runelite-jshell-4.15.5.jar",
+            "hash": "74bf9d9bb83353e12d1deb02c6b49598252cbda38ed7a55ede917dc3a2bb90b4"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -389,7 +389,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 11385,
             "name": "injection-annotations-1.0.jar",
-            "hash": "f4077f42a5d11d95562e0c04932547d5eb0b09d68171d48a85ae1d8b914c0849"
+            "hash": "80d1a3364f1f5b42e129e5f8b1a86b77fda6a9ed4c00a5baaf1b23b3b5619cc1"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.15.4.jar",
-            "size": 9515169,
-            "name": "runelite-client-4.15.4.jar",
-            "hash": "6c6f1b3228e31b9978d0f78eb656d2fafa9a7b7f5a991ef2f3e9f85915037f97"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.15.5.jar",
+            "size": 9514958,
+            "name": "runelite-client-4.15.5.jar",
+            "hash": "656bfacd3df7fd4370f680c18416e7feebb644895e7a90cdd76474e321c43806"
         }
     ]
 }
