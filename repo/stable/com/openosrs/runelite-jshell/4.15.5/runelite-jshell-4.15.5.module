@@ -28,10 +28,10 @@
           "name": "runelite-jshell-4.15.5.jar",
           "url": "runelite-jshell-4.15.5.jar",
           "size": 26552,
-          "sha512": "228ae478826ce192528f50a04917a42e72d76bef9ad463201d4ad250bd2cdbd8f01113dbafce788438b0bbf01a414c6cd8a7c6b635683f0ce47e6dd89ab552d7",
-          "sha256": "1e43a722c56c3f4e6fb3c769080913ce086446fea740b1827c1c1a34accba2c5",
-          "sha1": "4cd835b69c29d5e131bfbafdeffe31270f6bdcdb",
-          "md5": "105ef285f978ae18bd381a1b18abc790"
+          "sha512": "4ed8e0649fa5e8ee2a3986b9105f2328d75e163d29f4207849907209e8abde41ba5d13f2c629f0c4ca3acb0729a6f50def4e1d7b988ed28184219c6efeeb12c7",
+          "sha256": "a0bfd0a0a16b446851a7dde75801a664bfc205e30cf6f20f2e280e90a266c20b",
+          "sha1": "2941ddc82c5978eb0e345064a143ff161b4fe899",
+          "md5": "685ee8bc76beb6f94018e2e17703cc0b"
         }
       ]
     },
@@ -86,10 +86,10 @@
           "name": "runelite-jshell-4.15.5.jar",
           "url": "runelite-jshell-4.15.5.jar",
           "size": 26552,
-          "sha512": "228ae478826ce192528f50a04917a42e72d76bef9ad463201d4ad250bd2cdbd8f01113dbafce788438b0bbf01a414c6cd8a7c6b635683f0ce47e6dd89ab552d7",
-          "sha256": "1e43a722c56c3f4e6fb3c769080913ce086446fea740b1827c1c1a34accba2c5",
-          "sha1": "4cd835b69c29d5e131bfbafdeffe31270f6bdcdb",
-          "md5": "105ef285f978ae18bd381a1b18abc790"
+          "sha512": "4ed8e0649fa5e8ee2a3986b9105f2328d75e163d29f4207849907209e8abde41ba5d13f2c629f0c4ca3acb0729a6f50def4e1d7b988ed28184219c6efeeb12c7",
+          "sha256": "a0bfd0a0a16b446851a7dde75801a664bfc205e30cf6f20f2e280e90a266c20b",
+          "sha1": "2941ddc82c5978eb0e345064a143ff161b4fe899",
+          "md5": "685ee8bc76beb6f94018e2e17703cc0b"
         }
       ]
     }
