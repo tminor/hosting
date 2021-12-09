@@ -47,25 +47,25 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.15.8.jar",
             "size": 143805,
             "name": "runescape-api-4.15.8.jar",
-            "hash": "fb030d692beac61f6a0ade6c54076c31ed5f5a6ad7169a89546f1acf46800b84"
+            "hash": "ad2370e4d3ab8554f4d9c0bf90cc895820a24e044a5374431068279ba907cab6"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.15.8.jar",
             "size": 1331408,
             "name": "runelite-api-4.15.8.jar",
-            "hash": "6b6e40c979df99bd1f07e4a61616df27fb9182aeab06abfc007bfd1547551b1a"
+            "hash": "c7a525365d2a034a3ce229106c3faffe5e01a8ea96d19b665eb359867d640f14"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.15.8.jar",
             "size": 172800,
             "name": "http-api-4.15.8.jar",
-            "hash": "605cd15316f3a9a74e354b04808e4dd3dad1689b55c4746f2b3e259bf930873e"
+            "hash": "146b6b4b3ac031b3ce14d79549a25267223361556ba4bf1f713d5118ca9a3dfa"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.15.8.jar",
             "size": 26552,
             "name": "runelite-jshell-4.15.8.jar",
-            "hash": "dc6e6822eb6a20537d9a73ab9c39b6efc69d4e14eff081e98e9f2b8c4e5907e6"
+            "hash": "225c11c4a406d9910752d0575cad8f96397a3c87bf548e045d45e4b5700570f9"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -389,7 +389,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 11385,
             "name": "injection-annotations-1.0.jar",
-            "hash": "7d5ad6a2c7587910a5e664dde6cc8570f8c34830a06524b1ef45a1cc49800660"
+            "hash": "f897e6226849ca705711151bf533e74e92dd9e7fdc3968698bd2aab80f9a3ae8"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
@@ -401,7 +401,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.15.8.jar",
             "size": 9517530,
             "name": "runelite-client-4.15.8.jar",
-            "hash": "0c96846a647c4ad325fc4d8f5ee801081fcba6174114f890c97b5fcf09194e0c"
+            "hash": "e72e6312d76281f4e330c3cf9e3aaf58d6f2b09717acea7bb7101c59b8d2b9d1"
         }
     ]
 }
