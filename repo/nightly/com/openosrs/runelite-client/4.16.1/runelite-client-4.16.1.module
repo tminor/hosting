@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.3"
+      "version": "7.3.1"
     }
   },
   "variants": [
@@ -37,10 +37,10 @@
           "name": "runelite-client-4.16.1.jar",
           "url": "runelite-client-4.16.1.jar",
           "size": 9633556,
-          "sha512": "8ae5b90a4fa62d846169d3c053e5db4da6de21f10f51c5a031dfbd2ea55115e9f4312eca3fc932d6403ff4cbc1af65d1d9fdc8f5aa1a5e1eefcc520c1e8fcde9",
-          "sha256": "4d4e37e73d47140e5ee32b7ec283b63ef2141ebc790ced2d2a9ce00bd42a1f40",
-          "sha1": "68c27fddbae27df6c6bd85d9ed2b898cc73329ac",
-          "md5": "b34db74f97e004336feef8c67202cec3"
+          "sha512": "c617e5baa9ef782a3b709dcd921dc2965f5e869f5caefb18d506b38d48100efd4c443b3109a6e5fe0574ecbd4c07d45c22db55eaa86c3d6ead74b3318233625a",
+          "sha256": "eb8b966bb8f72efb5435b00cc1580833c90d57a58f28dde30f9777a18f7b00eb",
+          "sha1": "ca7f6bf6831ef934f4f0d2e9ca6872062b4125b4",
+          "md5": "8ecdf561247e51d98f60aacdc23d5e77"
         }
       ]
     },
@@ -428,10 +428,10 @@
           "name": "runelite-client-4.16.1.jar",
           "url": "runelite-client-4.16.1.jar",
           "size": 9633556,
-          "sha512": "8ae5b90a4fa62d846169d3c053e5db4da6de21f10f51c5a031dfbd2ea55115e9f4312eca3fc932d6403ff4cbc1af65d1d9fdc8f5aa1a5e1eefcc520c1e8fcde9",
-          "sha256": "4d4e37e73d47140e5ee32b7ec283b63ef2141ebc790ced2d2a9ce00bd42a1f40",
-          "sha1": "68c27fddbae27df6c6bd85d9ed2b898cc73329ac",
-          "md5": "b34db74f97e004336feef8c67202cec3"
+          "sha512": "c617e5baa9ef782a3b709dcd921dc2965f5e869f5caefb18d506b38d48100efd4c443b3109a6e5fe0574ecbd4c07d45c22db55eaa86c3d6ead74b3318233625a",
+          "sha256": "eb8b966bb8f72efb5435b00cc1580833c90d57a58f28dde30f9777a18f7b00eb",
+          "sha1": "ca7f6bf6831ef934f4f0d2e9ca6872062b4125b4",
+          "md5": "8ecdf561247e51d98f60aacdc23d5e77"
         }
       ]
     },
@@ -447,11 +447,11 @@
         {
           "name": "runelite-client-4.16.1-shaded.jar",
           "url": "runelite-client-4.16.1-shaded.jar",
-          "size": 41664199,
-          "sha512": "aabbbc10c0033867ba5ebba6dd51b27696a8e85c9f94ec798224a79657558ef858971cec3ec3065c7234ad67b221c8bfbdc29a415a29953a6aa0a4c2446a3108",
-          "sha256": "235683948df3674c6ba543234e60cbb31f7387855ec0b7fe03cc4da8d33b777f",
-          "sha1": "bca5ac132621d0d7fbc62ba30af95d9348e7cf7b",
-          "md5": "3aec6431fb0882a5196ced48ff40e879"
+          "size": 41664201,
+          "sha512": "8cf2b95ee6a8758d3810c1c3992feb95c3e5749d4c937e38d3e7dc62f917ebca4a706b6bef139eae2200926f3ef93aa945afe1020323b9ff9184ac94e2a91281",
+          "sha256": "10fa38336ca3b80e8d87fe09d7139ed437289aa04ca231fd622e317eb34edf12",
+          "sha1": "a02ec4de726ae0b2a3a4845247cda695c70b8c6c",
+          "md5": "456c6a7575897102415fa1b780b9f737"
         }
       ]
     }

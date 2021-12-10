@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.3"
+      "version": "7.3.1"
     }
   },
   "variants": [
@@ -27,11 +27,11 @@
         {
           "name": "http-api-4.16.1.jar",
           "url": "http-api-4.16.1.jar",
-          "size": 172792,
-          "sha512": "38259802edd6f525ef6202068a1ca8beb1bb459c87b202a928ff943d12bbbe6caec171f3a188b5693f1071db5315304ba20f374a59c9bc5a18f158af30c08f10",
-          "sha256": "d550fa009c9911ff5eda00a63e07f6a0015007a3920b824e80d363db3bb62646",
-          "sha1": "5c598210a2284dbfdd8691a0a832529a34904978",
-          "md5": "79afb5da3f10ec1c5b5ec50718f9f1f5"
+          "size": 172803,
+          "sha512": "4d2de732793d006e5904cc409470f592fd6c92f41a55c515b3005a0db7f71f7117a27959f4fbc57f1333b8c5fe1f38549d16ed43223fd41b46789e34c64f6cc4",
+          "sha256": "5f5d21b71be45154f67283b8beba2daae7a8bbacf132bf4e83bfdc0ceb0a7876",
+          "sha1": "90564a68f6f2a147b75d3b87f095b09d69528571",
+          "md5": "02baa2157959d1f54ba8aca21b98c37a"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "http-api-4.16.1.jar",
           "url": "http-api-4.16.1.jar",
-          "size": 172792,
-          "sha512": "38259802edd6f525ef6202068a1ca8beb1bb459c87b202a928ff943d12bbbe6caec171f3a188b5693f1071db5315304ba20f374a59c9bc5a18f158af30c08f10",
-          "sha256": "d550fa009c9911ff5eda00a63e07f6a0015007a3920b824e80d363db3bb62646",
-          "sha1": "5c598210a2284dbfdd8691a0a832529a34904978",
-          "md5": "79afb5da3f10ec1c5b5ec50718f9f1f5"
+          "size": 172803,
+          "sha512": "4d2de732793d006e5904cc409470f592fd6c92f41a55c515b3005a0db7f71f7117a27959f4fbc57f1333b8c5fe1f38549d16ed43223fd41b46789e34c64f6cc4",
+          "sha256": "5f5d21b71be45154f67283b8beba2daae7a8bbacf132bf4e83bfdc0ceb0a7876",
+          "sha1": "90564a68f6f2a147b75d3b87f095b09d69528571",
+          "md5": "02baa2157959d1f54ba8aca21b98c37a"
         }
       ]
     }
