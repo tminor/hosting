@@ -3,11 +3,11 @@
   <groupId>com.openosrs</groupId>
   <artifactId>runelite-jshell</artifactId>
   <versioning>
-    <latest>4.16.2</latest>
-    <release>4.16.2</release>
+    <latest>4.17.0</latest>
+    <release>4.17.0</release>
     <versions>
-      <version>4.16.2</version>
+      <version>4.17.0</version>
     </versions>
-    <lastUpdated>20211211044331</lastUpdated>
+    <lastUpdated>20211216121436</lastUpdated>
   </versioning>
 </metadata>
