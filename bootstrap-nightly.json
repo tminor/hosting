@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "3b35ab4d16416c15c40e31a2c73efdbc779f1e82",
+    "buildCommit": "bdd1e311c5b1b813186333a5bcd65b10eb3a7e12",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,31 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.17.0",
+    "projectVersion": "4.17.1",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.17.0.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.17.1.jar",
             "size": 145703,
-            "name": "runescape-api-4.17.0.jar",
-            "hash": "0ab95d4eddc26334ed4e9fd983a17e82ff8881a95d12a05f671a120f4a28d88d"
+            "name": "runescape-api-4.17.1.jar",
+            "hash": "42946c87d4702c6af1bbb085cd7dd46279cb86834e95a2d4de2a694045c64f63"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.17.0.jar",
-            "size": 1335015,
-            "name": "runelite-api-4.17.0.jar",
-            "hash": "7ba74c2c7f93d6cb34c9c550d969887dc39a7c35b1824ee36176135651e9f534"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.17.1.jar",
+            "size": 1335036,
+            "name": "runelite-api-4.17.1.jar",
+            "hash": "182ebd5bb0b4380cf829f6adb4d1df5a315de019335e034707224332cea50a79"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.17.0.jar",
-            "size": 136347,
-            "name": "http-api-4.17.0.jar",
-            "hash": "a4c339bde4691340075096e6fcc6675ef5a28328fe206b8c298befa213e2b344"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.17.1.jar",
+            "size": 136348,
+            "name": "http-api-4.17.1.jar",
+            "hash": "7191696d7cfc914b5284f9bc5a33114d9572df8218d6e19e47e691aef9d8bcf4"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.17.0.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.17.1.jar",
             "size": 26552,
-            "name": "runelite-jshell-4.17.0.jar",
-            "hash": "c7003863be9b28f86be5f6e1970ab14a5753e477f63bf91a02ce311125fcb7c1"
+            "name": "runelite-jshell-4.17.1.jar",
+            "hash": "661e7336a3efa13c93d5dc8b4b995e0fdc6578753de6cae61e2fde96df46877b"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -389,7 +389,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 11385,
             "name": "injection-annotations-1.0.jar",
-            "hash": "0ded43ef432f06e78219fe0a9852c1173d4a300731e2ee641f75d7dc40d0b615"
+            "hash": "5aede936df803bf80b8db96c9093d29267e5819b54553a2d7a1dc44dbd3682e6"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.17.0.jar",
-            "size": 9678344,
-            "name": "runelite-client-4.17.0.jar",
-            "hash": "82fd5301dcc0802103470884f973a508a19cb6e59975238f44c67a68cdc23cea"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.17.1.jar",
+            "size": 9678858,
+            "name": "runelite-client-4.17.1.jar",
+            "hash": "4713617dc366dd16d7dd544251999cb60ac3839d8b7b9bbdf5434b40a75ff922"
         }
     ]
 }
