@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "3b35ab4d16416c15c40e31a2c73efdbc779f1e82",
+    "buildCommit": "bdd1e311c5b1b813186333a5bcd65b10eb3a7e12",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,31 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.17.0",
+    "projectVersion": "4.17.1",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.17.0.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.17.1.jar",
             "size": 145703,
-            "name": "runescape-api-4.17.0.jar",
-            "hash": "40dcaaf472dc7f87cefd7a09a44150d4416b25021f4e8693767a1f652236daa5"
+            "name": "runescape-api-4.17.1.jar",
+            "hash": "a90e596ac28c4c595cedbe295f09996900151b077402ed99d0a96f026dd821c8"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.17.0.jar",
-            "size": 1335015,
-            "name": "runelite-api-4.17.0.jar",
-            "hash": "a54fd5de3bde9a550ba8d6a9897c6e0ecfdd1bbaddad8b29cdb6a7df851d6960"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.17.1.jar",
+            "size": 1335036,
+            "name": "runelite-api-4.17.1.jar",
+            "hash": "afc35c6af1ee83570d67439a04f8a92e79ab52f9f60578dcd59d8f08773b73cd"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.17.0.jar",
-            "size": 136347,
-            "name": "http-api-4.17.0.jar",
-            "hash": "2cbddd68e7726431bd5a26a8a7a2288069f2d7fb550bfd920d75ed7bcb6f7051"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.17.1.jar",
+            "size": 136348,
+            "name": "http-api-4.17.1.jar",
+            "hash": "d3a41e1f1374cc70036ce933458c53d0184081fbabbd9d82ed6376e0ba481c30"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-jshell-4.17.0.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-jshell-4.17.1.jar",
             "size": 26552,
-            "name": "runelite-jshell-4.17.0.jar",
-            "hash": "ad2b476618f5288c69fc131aea41d92da631ad8580a9fb966b82a150da125abc"
+            "name": "runelite-jshell-4.17.1.jar",
+            "hash": "f2df3c28bb52b4a5ee3bb3b0343fdf7a9dc9cbb0f60164dbebbdecb9f2183bf5"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -389,7 +389,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 11385,
             "name": "injection-annotations-1.0.jar",
-            "hash": "ba29723550dc0557451dd9611ff3aa880c875f0162219f438150cbb660d45c5a"
+            "hash": "5a797d4d6ea0e169b8ddd5ff7f92f64736b6b8f4d578db8253eda082059431b9"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.17.0.jar",
-            "size": 9678344,
-            "name": "runelite-client-4.17.0.jar",
-            "hash": "9bf3bdc273bd6d65a59576cad797b60fcbe047b9b839d3f786da105917d13d20"
+            "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.17.1.jar",
+            "size": 9678858,
+            "name": "runelite-client-4.17.1.jar",
+            "hash": "0d7fd7f8070b4f474bf3ff0bf500d14bd2a32ba4e50133c18d41d83bea406b88"
         }
     ]
 }
