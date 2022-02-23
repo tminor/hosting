@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "runelite-jshell",
+    "version": "4.20.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "runelite-jshell-4.20.2.jar",
+          "url": "runelite-jshell-4.20.2.jar",
+          "size": 26557,
+          "sha512": "10d1ecb268a5ec4d0f7d6779283cce22108e35f5bc589f1ba77f804a5cf66e33e00da03416f299abb21839cedd9be0fa7403f76294d1ace0d27cdc3ab41bc780",
+          "sha256": "79f47a8b9a82d7f5fd1fbad5757ed7f2d2c24e6d4dc8fe1628686e75dade665b",
+          "sha1": "43553cbbf2d18d76a23f8d86f9b6eb9e6bf62e35",
+          "md5": "ffbf1835f73f55d17f88a774b5a7038d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "com.google.inject",
+          "module": "guice",
+          "version": {
+            "requires": "5.0.1"
+          }
+        },
+        {
+          "group": "com.fifesoft",
+          "module": "rsyntaxtextarea",
+          "version": {
+            "requires": "3.1.2"
+          }
+        },
+        {
+          "group": "com.fifesoft",
+          "module": "autocomplete",
+          "version": {
+            "requires": "3.1.1"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.32"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-jshell-4.20.2.jar",
+          "url": "runelite-jshell-4.20.2.jar",
+          "size": 26557,
+          "sha512": "10d1ecb268a5ec4d0f7d6779283cce22108e35f5bc589f1ba77f804a5cf66e33e00da03416f299abb21839cedd9be0fa7403f76294d1ace0d27cdc3ab41bc780",
+          "sha256": "79f47a8b9a82d7f5fd1fbad5757ed7f2d2c24e6d4dc8fe1628686e75dade665b",
+          "sha1": "43553cbbf2d18d76a23f8d86f9b6eb9e6bf62e35",
+          "md5": "ffbf1835f73f55d17f88a774b5a7038d"
+        }
+      ]
+    }
+  ]
+}
