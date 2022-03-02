@@ -28,10 +28,10 @@
           "name": "http-api-4.20.2.jar",
           "url": "http-api-4.20.2.jar",
           "size": 99205,
-          "sha512": "243c73e19356f1902f47be72ec3f858f25675defe61db45ab0176bae571233c0b205d3de939499d0156ff699bea86cf09e11db5fc645f2b8b32786849eba3b90",
-          "sha256": "88e11b0c2e28931d06208294c6994e6acd0a841b46a48d70e592958298a6b8be",
-          "sha1": "55245fcd857347762fda1a8c6f6b18a87ba18239",
-          "md5": "46d78b6fda6df7a3b41036f91e06e9ce"
+          "sha512": "af85de639c4252cbe5c7fa57bca4a9915abb6e4763a8bd5c40eac0b02a13053db888132ceda79b694e24d983a720b16b0a3818fda4fceeed1bd0ffb9ea8466c9",
+          "sha256": "6e96096f0a5e5f396f45941b2a3c1b56f3bbf56bf1b2de64c7230dad73f09c43",
+          "sha1": "347848678dc45dbfd4989a50184c0c4f3d91feb5",
+          "md5": "7dc57cde8603ca69d08cf7c8f11bd1bd"
         }
       ]
     },
@@ -93,10 +93,10 @@
           "name": "http-api-4.20.2.jar",
           "url": "http-api-4.20.2.jar",
           "size": 99205,
-          "sha512": "243c73e19356f1902f47be72ec3f858f25675defe61db45ab0176bae571233c0b205d3de939499d0156ff699bea86cf09e11db5fc645f2b8b32786849eba3b90",
-          "sha256": "88e11b0c2e28931d06208294c6994e6acd0a841b46a48d70e592958298a6b8be",
-          "sha1": "55245fcd857347762fda1a8c6f6b18a87ba18239",
-          "md5": "46d78b6fda6df7a3b41036f91e06e9ce"
+          "sha512": "af85de639c4252cbe5c7fa57bca4a9915abb6e4763a8bd5c40eac0b02a13053db888132ceda79b694e24d983a720b16b0a3818fda4fceeed1bd0ffb9ea8466c9",
+          "sha256": "6e96096f0a5e5f396f45941b2a3c1b56f3bbf56bf1b2de64c7230dad73f09c43",
+          "sha1": "347848678dc45dbfd4989a50184c0c4f3d91feb5",
+          "md5": "7dc57cde8603ca69d08cf7c8f11bd1bd"
         }
       ]
     }
