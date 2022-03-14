@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "7.4.1"
     }
   },
   "variants": [
@@ -28,10 +28,10 @@
           "name": "runelite-jshell-4.20.3.jar",
           "url": "runelite-jshell-4.20.3.jar",
           "size": 26557,
-          "sha512": "1922fd3754c6782116c19a6f8bfb08e3a41058ebbaad013a97479a5e76a05748a8a8657682b0b54b9ebc59a3f8da61d183f1943cfe2db71e30e145c3ab8e6077",
-          "sha256": "422b6f907f0a64b4f86db24d89b7e08c64674147ca52370115f796b79f51e263",
-          "sha1": "d38e07c6d08a4163a97241d30e8b96cc43dcc637",
-          "md5": "0ca370dba10f4327a9c9911d1a12ba16"
+          "sha512": "009ce50a0c11fe1dd95651ea76204d0b04bd3ed53574958372ba1035097baaf36c3db32334c6bddc339421a3884006cadfa24327fa447fc7181d0fcd720c4a1d",
+          "sha256": "62f5a746b16c37ed5c9b2cf1b4b18b10cef66a6f3e3ffbd55132cd313836ab68",
+          "sha1": "e110c9f73450128b3b4c46e7e1a2ab513b0ec7ca",
+          "md5": "1be4b5b55f738e2182955f9057c870ad"
         }
       ]
     },
@@ -86,10 +86,10 @@
           "name": "runelite-jshell-4.20.3.jar",
           "url": "runelite-jshell-4.20.3.jar",
           "size": 26557,
-          "sha512": "1922fd3754c6782116c19a6f8bfb08e3a41058ebbaad013a97479a5e76a05748a8a8657682b0b54b9ebc59a3f8da61d183f1943cfe2db71e30e145c3ab8e6077",
-          "sha256": "422b6f907f0a64b4f86db24d89b7e08c64674147ca52370115f796b79f51e263",
-          "sha1": "d38e07c6d08a4163a97241d30e8b96cc43dcc637",
-          "md5": "0ca370dba10f4327a9c9911d1a12ba16"
+          "sha512": "009ce50a0c11fe1dd95651ea76204d0b04bd3ed53574958372ba1035097baaf36c3db32334c6bddc339421a3884006cadfa24327fa447fc7181d0fcd720c4a1d",
+          "sha256": "62f5a746b16c37ed5c9b2cf1b4b18b10cef66a6f3e3ffbd55132cd313836ab68",
+          "sha1": "e110c9f73450128b3b4c46e7e1a2ab513b0ec7ca",
+          "md5": "1be4b5b55f738e2182955f9057c870ad"
         }
       ]
     }
