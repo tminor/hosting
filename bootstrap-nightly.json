@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "1cdb6e906008be1e37ecd3e8d3e929d41cfc39e9",
+    "buildCommit": "a46242f1f7fd8743723fc541f199fc6a57afd849",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,31 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.24.1",
+    "projectVersion": "4.25.0",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.24.1.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.25.0.jar",
             "size": 149656,
-            "name": "runescape-api-4.24.1.jar",
-            "hash": "0df29be77a4bebeafd466778fcbf2e08a079ffe91cff05e3e564e05f456ebf09"
+            "name": "runescape-api-4.25.0.jar",
+            "hash": "96a8befe889e5decfc443ce5c4ba027021e816d3fe8dc11dfd3a7fe229bb5b35"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.24.1.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.25.0.jar",
             "size": 1346817,
-            "name": "runelite-api-4.24.1.jar",
-            "hash": "1ecf2e6287855e3d881598f22d38f09570bbebdb1f602f8c9bcb86d13f645176"
+            "name": "runelite-api-4.25.0.jar",
+            "hash": "0e2e80f079abbd4d4b89ee799629af1e16d38a87c9a215d01a57a42957a50ef9"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.24.1.jar",
-            "size": 99208,
-            "name": "http-api-4.24.1.jar",
-            "hash": "5d2ddcf3a9967d8595320100b26d994d79233ba8d91ef010d0875dcb5437eb83"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.25.0.jar",
+            "size": 99212,
+            "name": "http-api-4.25.0.jar",
+            "hash": "9221ed3b5a65c5bd1181016e6bfcee2e7060c72483ce73f0ce2fbddd5e9481d0"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.24.1.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.25.0.jar",
             "size": 26557,
-            "name": "runelite-jshell-4.24.1.jar",
-            "hash": "4579077d3bdf62fe007b65dc84f82b537db42a3d8067cfaed23f05de2dcf10e0"
+            "name": "runelite-jshell-4.25.0.jar",
+            "hash": "2b505e735c0855806f304ef20704db1fdcfb86105bd7ca1339513e2cea8a9cdf"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
@@ -389,7 +389,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 11385,
             "name": "injection-annotations-1.0.jar",
-            "hash": "3342017a5239000ce4350c32b057da62cd39f297ec5499d38e76a688ce547c49"
+            "hash": "f25f985f17e93b241bf1ec72de493c1113d4460e48cd5f6e37c5c9f3c1858f22"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.24.1.jar",
-            "size": 9987329,
-            "name": "runelite-client-4.24.1.jar",
-            "hash": "6b4058ac80750035ac58b4306616200528b772450a06cf0d45344102bee79a85"
+            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.25.0.jar",
+            "size": 9944581,
+            "name": "runelite-client-4.25.0.jar",
+            "hash": "a0fb3e6d642d21783f3a9e396be2ea6851d58fde1b9d1afb84573e158e15b672"
         }
     ]
 }
