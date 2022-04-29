@@ -35,7 +35,7 @@
           "group": "com.openosrs",
           "module": "injection-annotations",
           "version": {
-            "requires": "1.0"
+            "requires": "1.1"
           }
         }
       ],
@@ -43,11 +43,11 @@
         {
           "name": "runescape-api-4.25.1.jar",
           "url": "runescape-api-4.25.1.jar",
-          "size": 149656,
-          "sha512": "483bd9611cdc6efe15f5323b2f5f45ea85ae043421fbb46a53b236a546f58fad2e0c85df93b53d496958049713be75e1549fed0f1233e6cdb8d55b65f4ea879c",
-          "sha256": "c9c7b1eec1e78ae455f3c27b6ef6fa36bd8babba84ce04a78e994560b19806e0",
-          "sha1": "9168be3461c9ceec22b609752268e29a22e96010",
-          "md5": "8cc1e75c1fe7c6321eb56e6a35ce1016"
+          "size": 149686,
+          "sha512": "f23c4e6b08a45ce8996535ee9e59aed99c23ec58450aaf0ea1302b96040a55664399ea67e966068048a8d8f7637d670025307bbb7b8c42430edb4a7b7d5a3a45",
+          "sha256": "6dd7884f07d4f7708eebe781310a0aac4b2501561b7d8422572d87d346f28749",
+          "sha1": "e437048bbeb81dd3be733b2d960ce874c3d58752",
+          "md5": "e42fb6137258ed38b5e4ccd15002e0c3"
         }
       ]
     },
@@ -72,7 +72,7 @@
           "group": "com.openosrs",
           "module": "injection-annotations",
           "version": {
-            "requires": "1.0"
+            "requires": "1.1"
           }
         }
       ],
@@ -80,11 +80,11 @@
         {
           "name": "runescape-api-4.25.1.jar",
           "url": "runescape-api-4.25.1.jar",
-          "size": 149656,
-          "sha512": "483bd9611cdc6efe15f5323b2f5f45ea85ae043421fbb46a53b236a546f58fad2e0c85df93b53d496958049713be75e1549fed0f1233e6cdb8d55b65f4ea879c",
-          "sha256": "c9c7b1eec1e78ae455f3c27b6ef6fa36bd8babba84ce04a78e994560b19806e0",
-          "sha1": "9168be3461c9ceec22b609752268e29a22e96010",
-          "md5": "8cc1e75c1fe7c6321eb56e6a35ce1016"
+          "size": 149686,
+          "sha512": "f23c4e6b08a45ce8996535ee9e59aed99c23ec58450aaf0ea1302b96040a55664399ea67e966068048a8d8f7637d670025307bbb7b8c42430edb4a7b7d5a3a45",
+          "sha256": "6dd7884f07d4f7708eebe781310a0aac4b2501561b7d8422572d87d346f28749",
+          "sha1": "e437048bbeb81dd3be733b2d960ce874c3d58752",
+          "md5": "e42fb6137258ed38b5e4ccd15002e0c3"
         }
       ]
     }
