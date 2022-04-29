@@ -14,7 +14,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "f13ea538f8cd2e08fb16fd8bf8e02c2527c379ff",
+    "buildCommit": "ab891b425ee335e70e5d9d7c0843fccbe30b0b07",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -31,11 +31,10 @@
         "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
-        "injection-annotations-1.1.jar": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
         "jogl-gldesktop-dbg-2.4.0-rc-20220318.jar": "12cb4a18958d3da1fb7def4800cd31a5a266e9da9ccbb6dca9efa1d1b9d953e0",
-        "runelite-api-4.25.1.jar": "1cca542269c3f63ef04868cb0d804f3af7f87feb13794c85d7edc20d0d66ae46",
-        "runescape-api-4.25.1.jar": "5f2cfdb443f981f86c0b1d3e3e9a4c2458c52637294b19cf8db13bda095ed68d",
+        "runelite-api-4.25.1.jar": "3916408c0b3f07f27f69ab2af84f7786e7c51c94e51835a001a7290de67b14eb",
+        "runescape-api-4.25.1.jar": "69c414ee4a8a32d2c1c89aaae3dcad56e5a3815eda200aad11ae4bcf70403ea1",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
         "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
         "kotlin-stdlib-1.4.10.jar": "01ecb09782c042b931c1839acf21a188340b295d05400afd6e3415d4475b8daa",
@@ -54,7 +53,7 @@
         "jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar": "75029af713b9df5ecd47a818ef32eb0909a95bb0dde7514cd6dc73e82900ed13",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
-        "runelite-client-4.25.1.jar": "55c3e061a986f7d322ec799aa8bd910c2eb586f1a9e5fb011db5b28c9b77e006",
+        "runelite-client-4.25.1.jar": "1963281f94bb9b7a4556ac6b24473df0d2742d95151ae9fad4cbb68cdbb110e7",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
@@ -64,7 +63,7 @@
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
         "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
-        "http-api-4.25.1.jar": "eef8e38b3b7d0da5850c1f6a45305877ef92f6414f70e004233d378e9c393d9f",
+        "http-api-4.25.1.jar": "54f0a28c3d78a36b80d66c173680091cfb1345435b339e9f3a7dc81671b52a05",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-amd64.jar": "e7636fef6e9edc9f2caad7a4d5ca748edcc7cecb9446b917e4e5f93241123f2c",
         "jocl-1.0.jar": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
         "annotations-22.0.0.jar": "9f45f5d5184d50a777742389a7a6e6a5b0bf90b316919774d8336f94776c31b2",
@@ -121,7 +120,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "minimumLauncherVersion": "2.2.0",
+    "minimumLauncherVersion": "3.0.0",
     "launcherJvm11WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -148,21 +147,21 @@
     "artifacts": [
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/staging/runescape-api-4.25.1.jar",
-            "size": 118273,
+            "size": 118296,
             "name": "runescape-api-4.25.1.jar",
-            "hash": "5f2cfdb443f981f86c0b1d3e3e9a4c2458c52637294b19cf8db13bda095ed68d"
+            "hash": "69c414ee4a8a32d2c1c89aaae3dcad56e5a3815eda200aad11ae4bcf70403ea1"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/staging/runelite-api-4.25.1.jar",
-            "size": 1313033,
+            "size": 1313123,
             "name": "runelite-api-4.25.1.jar",
-            "hash": "1cca542269c3f63ef04868cb0d804f3af7f87feb13794c85d7edc20d0d66ae46"
+            "hash": "3916408c0b3f07f27f69ab2af84f7786e7c51c94e51835a001a7290de67b14eb"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/staging/http-api-4.25.1.jar",
             "size": 88796,
             "name": "http-api-4.25.1.jar",
-            "hash": "eef8e38b3b7d0da5850c1f6a45305877ef92f6414f70e004233d378e9c393d9f"
+            "hash": "54f0a28c3d78a36b80d66c173680091cfb1345435b339e9f3a7dc81671b52a05"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/staging/runelite-jshell-4.25.1.jar",
@@ -545,12 +544,6 @@
             "hash": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.1/injection-annotations-1.1.jar",
-            "size": 7298,
-            "name": "injection-annotations-1.1.jar",
-            "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
-        },
-        {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.10/kotlin-stdlib-common-1.4.10.jar",
             "size": 191211,
             "name": "kotlin-stdlib-common-1.4.10.jar",
@@ -558,9 +551,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/staging/runelite-client-4.25.1.jar",
-            "size": 9673920,
+            "size": 9673932,
             "name": "runelite-client-4.25.1.jar",
-            "hash": "55c3e061a986f7d322ec799aa8bd910c2eb586f1a9e5fb011db5b28c9b77e006"
+            "hash": "1963281f94bb9b7a4556ac6b24473df0d2742d95151ae9fad4cbb68cdbb110e7"
         }
     ]
 }
