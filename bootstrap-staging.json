@@ -14,7 +14,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "ed3a88b9774dd288f0c0addd206f2380113fe2c2",
+    "buildCommit": "f13ea538f8cd2e08fb16fd8bf8e02c2527c379ff",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -23,7 +23,6 @@
         "-XX:CompileThreshold=1500"
     ],
     "dependencyHashes": {
-        "injection-annotations-1.0.jar": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b",
         "kotlin-stdlib-common-1.4.10.jar": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe",
         "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
         "desktopsupport-0.6.0.jar": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
@@ -32,6 +31,7 @@
         "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
+        "injection-annotations-1.1.jar": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
         "jogl-gldesktop-dbg-2.4.0-rc-20220318.jar": "12cb4a18958d3da1fb7def4800cd31a5a266e9da9ccbb6dca9efa1d1b9d953e0",
         "runelite-api-4.25.1.jar": "1cca542269c3f63ef04868cb0d804f3af7f87feb13794c85d7edc20d0d66ae46",
@@ -64,7 +64,7 @@
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
         "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
-        "http-api-4.25.1.jar": "c5c9909b255a5c1fe6ce0a368c935d1b97e52c7f73ab32178f60a4d42e7c50cb",
+        "http-api-4.25.1.jar": "eef8e38b3b7d0da5850c1f6a45305877ef92f6414f70e004233d378e9c393d9f",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-amd64.jar": "e7636fef6e9edc9f2caad7a4d5ca748edcc7cecb9446b917e4e5f93241123f2c",
         "jocl-1.0.jar": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
         "annotations-22.0.0.jar": "9f45f5d5184d50a777742389a7a6e6a5b0bf90b316919774d8336f94776c31b2",
@@ -162,7 +162,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/staging/http-api-4.25.1.jar",
             "size": 88796,
             "name": "http-api-4.25.1.jar",
-            "hash": "c5c9909b255a5c1fe6ce0a368c935d1b97e52c7f73ab32178f60a4d42e7c50cb"
+            "hash": "eef8e38b3b7d0da5850c1f6a45305877ef92f6414f70e004233d378e9c393d9f"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/staging/runelite-jshell-4.25.1.jar",
@@ -545,9 +545,9 @@
             "hash": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
+            "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.1/injection-annotations-1.1.jar",
             "size": 7298,
-            "name": "injection-annotations-1.0.jar",
+            "name": "injection-annotations-1.1.jar",
             "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
         },
         {
