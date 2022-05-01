@@ -34,13 +34,13 @@
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
         "jogl-gldesktop-dbg-2.4.0-rc-20220318.jar": "12cb4a18958d3da1fb7def4800cd31a5a266e9da9ccbb6dca9efa1d1b9d953e0",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
-        "http-api-4.25.2.jar": "91082dfdc067356404176fd37e733f8ab1aed26724c3adf7d8e1212a3ec56453",
+        "http-api-4.25.2.jar": "5b8470a9e182eef665eb0d01d6e2b7a24936ce916c27fc204e015fe1a92d0d63",
         "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
         "kotlin-stdlib-1.4.10.jar": "01ecb09782c042b931c1839acf21a188340b295d05400afd6e3415d4475b8daa",
         "jocl-1.0-macos-x64.jar": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
         "gluegen-rt-2.4.0-rc-20220318-natives-windows-i586.jar": "fc235e8164cbac2382053b850b10cd7cc971241b54b3f84410ff54edd71c852d",
-        "runescape-api-4.25.2.jar": "d37bffcd091dbc5bb2454080238fe9e5d359563d1202c9c86fcccec346c84dce",
-        "runelite-api-4.25.2.jar": "d42272e8169b4b88303d04944ac790fd828ce4e82921420dd076fea60c799af7",
+        "runescape-api-4.25.2.jar": "a27899a8d55745c255455b64936da139480ee9f5c854ab1080b269d15eea8789",
+        "runelite-api-4.25.2.jar": "fa67decc30fb3721ec8b8e9f1570fdc8986bb6d4ee0217c0dedcbb9a343cd7ea",
         "commons-io-2.8.0.jar": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
         "reactive-streams-1.0.3.jar": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865",
         "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
@@ -61,7 +61,7 @@
         "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
         "jopt-simple-5.0.4.jar": "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28",
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
-        "runelite-client-4.25.2.jar": "e94dc1b1d0ce3ae2583a58a190327dd3ffbdcbd998d3ec346463238839ada7da",
+        "runelite-client-4.25.2.jar": "39b8063ce13fe0df71961eaa24e579bbc96cc8da25be9cdf6613cde1e6a85ef6",
         "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-amd64.jar": "e7636fef6e9edc9f2caad7a4d5ca748edcc7cecb9446b917e4e5f93241123f2c",
@@ -81,7 +81,7 @@
         "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
         "gluegen-rt-2.4.0-rc-20220318-natives-linux-amd64.jar": "187ce9ddabfa7cd83447ccf9c166018aa7d2519c334942d91e33b3aaf24b53c7",
         "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5",
-        "runelite-jshell-4.25.2.jar": "2538465cec8b72a81c594a3d6bf81cd8d42d05c363f02c14d223c9c293ab8089"
+        "runelite-jshell-4.25.2.jar": "71d856ee43302d009e88afe9174aa67437b3c4c3f59fa144e93e0773ca1f4fed"
     },
     "launcherJvm17MacArguments": [
         "-XX:+DisableAttachMechanism",
@@ -149,25 +149,25 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runescape-api-4.25.2.jar",
             "size": 149686,
             "name": "runescape-api-4.25.2.jar",
-            "hash": "d37bffcd091dbc5bb2454080238fe9e5d359563d1202c9c86fcccec346c84dce"
+            "hash": "a27899a8d55745c255455b64936da139480ee9f5c854ab1080b269d15eea8789"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-api-4.25.2.jar",
             "size": 1356979,
             "name": "runelite-api-4.25.2.jar",
-            "hash": "d42272e8169b4b88303d04944ac790fd828ce4e82921420dd076fea60c799af7"
+            "hash": "fa67decc30fb3721ec8b8e9f1570fdc8986bb6d4ee0217c0dedcbb9a343cd7ea"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/http-api-4.25.2.jar",
             "size": 99208,
             "name": "http-api-4.25.2.jar",
-            "hash": "91082dfdc067356404176fd37e733f8ab1aed26724c3adf7d8e1212a3ec56453"
+            "hash": "5b8470a9e182eef665eb0d01d6e2b7a24936ce916c27fc204e015fe1a92d0d63"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-jshell-4.25.2.jar",
             "size": 26557,
             "name": "runelite-jshell-4.25.2.jar",
-            "hash": "2538465cec8b72a81c594a3d6bf81cd8d42d05c363f02c14d223c9c293ab8089"
+            "hash": "71d856ee43302d009e88afe9174aa67437b3c4c3f59fa144e93e0773ca1f4fed"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
@@ -553,7 +553,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/stable/runelite-client-4.25.2.jar",
             "size": 9958519,
             "name": "runelite-client-4.25.2.jar",
-            "hash": "e94dc1b1d0ce3ae2583a58a190327dd3ffbdcbd998d3ec346463238839ada7da"
+            "hash": "39b8063ce13fe0df71961eaa24e579bbc96cc8da25be9cdf6613cde1e6a85ef6"
         }
     ]
 }
