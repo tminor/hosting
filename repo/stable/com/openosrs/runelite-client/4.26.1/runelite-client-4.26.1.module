@@ -37,10 +37,10 @@
           "name": "runelite-client-4.26.1.jar",
           "url": "runelite-client-4.26.1.jar",
           "size": 10146112,
-          "sha512": "0d1caef57bb3c4fbeefb9d09702642380bd27fc86d501989215b7900595ee94908cb80f1d5c5d4d0b367cb7256c909fa06ecbaccfea969adb7b364c584fb326c",
-          "sha256": "d879e25aa9f64ef785c2bc32e2427b245dd05e70d8e0b2ee947a412d4d3384d0",
-          "sha1": "cd9506232028772dafb19694d9d6a50f8ac0c08e",
-          "md5": "40f7b64872455d6f44e91a5fed6a5a96"
+          "sha512": "7d3525e48f93ed25a9bbb1b9c44ddb72a80526296055916b0acaf9ee4e2872ac7667dbd454ed82eb5fdf36fe93e9837d31c9bf11998ee520665c0d1087f13761",
+          "sha256": "b4070eca528382dd21be4779c63e35bf7ea0055711d1987cbeefb589b7d86fad",
+          "sha1": "3c094b857882f2b0fb703a15a772d80640e8ee69",
+          "md5": "91f85c76a5eceba0cf516364efa1914a"
         }
       ]
     },
@@ -451,10 +451,10 @@
           "name": "runelite-client-4.26.1.jar",
           "url": "runelite-client-4.26.1.jar",
           "size": 10146112,
-          "sha512": "0d1caef57bb3c4fbeefb9d09702642380bd27fc86d501989215b7900595ee94908cb80f1d5c5d4d0b367cb7256c909fa06ecbaccfea969adb7b364c584fb326c",
-          "sha256": "d879e25aa9f64ef785c2bc32e2427b245dd05e70d8e0b2ee947a412d4d3384d0",
-          "sha1": "cd9506232028772dafb19694d9d6a50f8ac0c08e",
-          "md5": "40f7b64872455d6f44e91a5fed6a5a96"
+          "sha512": "7d3525e48f93ed25a9bbb1b9c44ddb72a80526296055916b0acaf9ee4e2872ac7667dbd454ed82eb5fdf36fe93e9837d31c9bf11998ee520665c0d1087f13761",
+          "sha256": "b4070eca528382dd21be4779c63e35bf7ea0055711d1987cbeefb589b7d86fad",
+          "sha1": "3c094b857882f2b0fb703a15a772d80640e8ee69",
+          "md5": "91f85c76a5eceba0cf516364efa1914a"
         }
       ]
     },
@@ -471,10 +471,10 @@
           "name": "runelite-client-4.26.1-shaded.jar",
           "url": "runelite-client-4.26.1-shaded.jar",
           "size": 37050952,
-          "sha512": "d64b66f0a98734c1c8bb15bf4a99eadfd03196647b153ad584ad93d4606c1f48ed95fc2b6d683f5febbfc583121b7048012e4908f48d1644f1d03c496dd7d984",
-          "sha256": "528c48b087d548f1cc7e1c651cd91c8acfb364b9cbbf9c4047ca99199ceff779",
-          "sha1": "7acf23b900388079fbd3df02a8436bd571b23fb7",
-          "md5": "ce4d2241fdf80265de6d24e02bd69463"
+          "sha512": "94ca15fddc899b5fb22851ddaaa307186c2060b507f73d361eee6a1211ed3702fa42651e8485e46f2b781e04148063068d715bc9b7c5a0d0d5dae13bc70d90b7",
+          "sha256": "b244af4fbb174eb661cd08fc68634ac5089221f885ea411e21f66b0ba6d222f6",
+          "sha1": "265fecb2fdb114d96953bfe7ce5bcb60d2ee0aa1",
+          "md5": "41ddabdad0771d4db7b67f5df274368b"
         }
       ]
     }
