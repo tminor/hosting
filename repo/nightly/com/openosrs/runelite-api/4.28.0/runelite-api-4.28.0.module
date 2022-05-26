@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs",
+    "module": "runelite-api",
+    "version": "4.28.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "runelite-api-4.28.0.jar",
+          "url": "runelite-api-4.28.0.jar",
+          "size": 1359296,
+          "sha512": "4d148e6423390791feb2e1adae64b5a258833f5a71a72b4277b029a5dedf6fa78100fc73202df9b2dfb159d4bfc864f4b2fbe91adfce3cd71b92ebc000d47c1e",
+          "sha256": "fb0eb1c5d0767245f41dc937a055d38473d3407c00c0b33a105b1d43e7c2ec96",
+          "sha1": "d490152a5c02e4dbabdb6eda01ce9cdd010e4192",
+          "md5": "29a28f5279afb6d8d804936b286440e6"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.1.1-jre"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-text",
+          "version": {
+            "requires": "1.9"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.32"
+          }
+        },
+        {
+          "group": "org.jetbrains",
+          "module": "annotations",
+          "version": {
+            "requires": "22.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "runelite-api-4.28.0.jar",
+          "url": "runelite-api-4.28.0.jar",
+          "size": 1359296,
+          "sha512": "4d148e6423390791feb2e1adae64b5a258833f5a71a72b4277b029a5dedf6fa78100fc73202df9b2dfb159d4bfc864f4b2fbe91adfce3cd71b92ebc000d47c1e",
+          "sha256": "fb0eb1c5d0767245f41dc937a055d38473d3407c00c0b33a105b1d43e7c2ec96",
+          "sha1": "d490152a5c02e4dbabdb6eda01ce9cdd010e4192",
+          "md5": "29a28f5279afb6d8d804936b286440e6"
+        }
+      ]
+    }
+  ]
+}
