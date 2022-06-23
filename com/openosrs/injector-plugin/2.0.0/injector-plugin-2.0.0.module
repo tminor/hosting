@@ -38,11 +38,11 @@
         {
           "name": "injector-plugin-2.0.0.jar",
           "url": "injector-plugin-2.0.0.jar",
-          "size": 119121,
-          "sha512": "fc184a824ebca5c0857990c2b1f81929af56342b8e2c4babf6a1a54a11d74fd42ccfc957d97e3d30420fc2c642593cd817c727f04c08e18fb421e3dd7fdf3f28",
-          "sha256": "d7ceb88dce6ce18e27d8929a476d07720e169c6bc14918738e07cf4bbc7b2a68",
-          "sha1": "6b3cf856581f7ea741194abaa59b26005180e4ba",
-          "md5": "1bed0a9d4490b5b2457f453bb6f63c9c"
+          "size": 119796,
+          "sha512": "5e37bb25e3155326f51a649c57267e5dd75aae5f71473bef5249da7d39cdfecd5aac74e2612ca85c3024d1b4069a333b308ca8603f095459a178c7730b0a69cc",
+          "sha256": "98ae3bd921faa79081b98ac2bbb679994858bcefb9b61fdbe7e51fead7e4939e",
+          "sha1": "09c441d634a31dd4e0225c61049fd9a22909d053",
+          "md5": "dfdc2007d4655d8fbe01215d2323f92f"
         }
       ]
     },
@@ -129,11 +129,11 @@
         {
           "name": "injector-plugin-2.0.0.jar",
           "url": "injector-plugin-2.0.0.jar",
-          "size": 119121,
-          "sha512": "fc184a824ebca5c0857990c2b1f81929af56342b8e2c4babf6a1a54a11d74fd42ccfc957d97e3d30420fc2c642593cd817c727f04c08e18fb421e3dd7fdf3f28",
-          "sha256": "d7ceb88dce6ce18e27d8929a476d07720e169c6bc14918738e07cf4bbc7b2a68",
-          "sha1": "6b3cf856581f7ea741194abaa59b26005180e4ba",
-          "md5": "1bed0a9d4490b5b2457f453bb6f63c9c"
+          "size": 119796,
+          "sha512": "5e37bb25e3155326f51a649c57267e5dd75aae5f71473bef5249da7d39cdfecd5aac74e2612ca85c3024d1b4069a333b308ca8603f095459a178c7730b0a69cc",
+          "sha256": "98ae3bd921faa79081b98ac2bbb679994858bcefb9b61fdbe7e51fead7e4939e",
+          "sha1": "09c441d634a31dd4e0225c61049fd9a22909d053",
+          "md5": "dfdc2007d4655d8fbe01215d2323f92f"
         }
       ]
     }
