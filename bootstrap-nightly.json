@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "fcccef0944bc3a0b9f9b898a80398592a17654e1",
+    "buildCommit": "1e48eb59f1478b1cb0e41b2d605c71c89eaed0c8",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -51,13 +51,12 @@
         "guice-5.0.1.jar": "3bae18be3e0f0940375d1ebdd2f3b84d87ae16026ae663b2f5d4667fe5b04036",
         "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
         "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
-        "client.hash": "8ebfcee99c4d5c425bfd39d48f28b28aa85c643000291c3e63eda68a91ab3cf6",
         "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
         "jocl-1.0-macos-arm64.jar": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar": "75029af713b9df5ecd47a818ef32eb0909a95bb0dde7514cd6dc73e82900ed13",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
-        "runelite-client-4.31.2.jar": "75797ab22e5603b69e7a466c161b774890c44b4e647298236dadc1d9725d3278",
+        "runelite-client-4.31.2.jar": "03d34386dca1e7759ab7583e56ba7b8b2baa0c4c13a907d4183fe942ff400a4a",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
@@ -66,7 +65,7 @@
         "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
         "jopt-simple-5.0.4.jar": "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28",
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
-        "http-api-4.31.2.jar": "89b402c0b025161b8e085c764e13020367fdb829643576e3f225db378177f8b0",
+        "http-api-4.31.2.jar": "de79b11a20a5739b773c86ebebe9f53c12929ae55783c9f0cb1e237f5aa1e2a0",
         "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-amd64.jar": "e7636fef6e9edc9f2caad7a4d5ca748edcc7cecb9446b917e4e5f93241123f2c",
@@ -171,7 +170,7 @@
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.31.2.jar",
             "size": 88796,
             "name": "http-api-4.31.2.jar",
-            "hash": "89b402c0b025161b8e085c764e13020367fdb829643576e3f225db378177f8b0"
+            "hash": "de79b11a20a5739b773c86ebebe9f53c12929ae55783c9f0cb1e237f5aa1e2a0"
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.31.2.jar",
@@ -470,12 +469,6 @@
             ]
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/com/openosrs/injected-client/4.31.2/injected-client-4.31.2.jar",
-            "size": 64,
-            "name": "client.hash",
-            "hash": "8ebfcee99c4d5c425bfd39d48f28b28aa85c643000291c3e63eda68a91ab3cf6"
-        },
-        {
             "path": "https://repo.runelite.net/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
             "size": 79726,
             "name": "trident-1.5.00.jar",
@@ -573,9 +566,9 @@
         },
         {
             "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.31.2.jar",
-            "size": 10008433,
+            "size": 10008426,
             "name": "runelite-client-4.31.2.jar",
-            "hash": "75797ab22e5603b69e7a466c161b774890c44b4e647298236dadc1d9725d3278"
+            "hash": "03d34386dca1e7759ab7583e56ba7b8b2baa0c4c13a907d4183fe942ff400a4a"
         }
     ]
 }
