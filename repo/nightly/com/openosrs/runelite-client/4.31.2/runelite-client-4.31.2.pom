@@ -222,12 +222,6 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>com.openosrs</groupId>
-      <artifactId>injected-client</artifactId>
-      <version>4.31.2</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>net.runelite.pushingpixels</groupId>
       <artifactId>trident</artifactId>
       <version>1.5.00</version>
